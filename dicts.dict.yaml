@@ -1,0 +1,9 @@
+---
+name: dicts
+sort: by_weight
+version: "23.10.21"
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+  - dict/scel
+...
