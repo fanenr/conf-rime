@@ -1,0 +1,8 @@
+distribution_name: Rime
+distribution_version: 1.5.0
+distribution_code_name: "ibus-rime"
+rime_version: 1.8.5
+install_time: "Sat Oct 21 18:14:08 2023"
+update_time: "Wed Nov  8 13:18:14 2023"
+installation_id: "sync"
+sync_dir: "/home/arthur/.config/ibus/rime"
