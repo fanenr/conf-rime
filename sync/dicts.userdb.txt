@@ -1,7 +1,7 @@
 # Rime user dictionary
 #@/db_name	dicts
 #@/db_type	userdb
-#@/rime_version	1.8.4
+#@/rime_version	1.8.5
 #@/tick	19281
 #@/user_id	sync
 a 	啊	c=13 d=0.602161 t=19281
@@ -10,6 +10,8 @@ a li yun 	阿里雲	c=1 d=4.8214e-36 t=19281
 a lie fu 	阿列夫	c=0 d=2.41246e-38 t=19281
 a xin 	阿信	c=1 d=0.985112 t=19281
 ai 	愛	c=1 d=0.316637 t=19281
+ai le 	愛了	c=0 d=0.1 t=43
+ai le ai le 	愛了愛了	c=1 d=1 t=44
 ai ren 	愛人	c=0 d=3.85271e-16 t=19281
 ai shang 	愛上	c=0 d=2.42456e-38 t=19281
 ai wan 	愛玩	c=1 d=0.0343896 t=19281
@@ -21,9 +23,11 @@ an wei huo 	按位或	c=1 d=1.91281e-42 t=19281
 an xia 	按下	c=4 d=2.37622e-06 t=19281
 an zhao 	按照	c=4 d=4.86074e-14 t=19281
 an zhuang 	安裝	c=12 d=0.490413 t=19281
+an zhuo 	安卓	c=1 d=1 t=342
 ao nao 	懊惱	c=0 d=2.25565e-12 t=19281
-ba 	吧	c=13 d=0.0355405 t=19281
-ba 	把	c=13 d=0.0328016 t=19281
+ba 	八	c=1 d=1 t=592
+ba 	吧	c=13 d=0.58561 t=19281
+ba 	把	c=13 d=0.927743 t=19281
 ba ta 	把它	c=2 d=2.42711e-20 t=19281
 ba wei 	八位	c=1 d=0.00190171 t=19281
 bai du 	百度	c=1 d=2.33592e-40 t=19281
@@ -31,7 +35,8 @@ bai pi shu 	白皮書	c=3 d=0.170064 t=19281
 bai piao 	白嫖	c=2 d=0.000659635 t=19281
 bai tuo 	擺脫	c=1 d=4.85976e-41 t=19281
 ban 	版	c=0 d=5.01918e-10 t=19281
-ban ben 	版本	c=8 d=5.91958e-09 t=19281
+ban 	辦	c=1 d=1 t=323
+ban ben 	版本	c=8 d=0.474734 t=19281
 ban ben hao 	版本號	c=1 d=1.02159e-16 t=19281
 ban fa 	辦法	c=3 d=0.00116504 t=19281
 ban jiao 	半角	c=3 d=1.82337e-40 t=19281
@@ -40,24 +45,26 @@ ban yan 	扮演	c=1 d=1.34496e-16 t=19281
 ban zi 	板子	c=1 d=0.0122426 t=19281
 ban zi shang 	板子上	c=1 d=0.00856561 t=19281
 bang ding 	綁定	c=6 d=0.0171053 t=19281
+bang mang 	幫忙	c=2 d=1.97045 t=508
 bang wo 	幫我	c=2 d=3.39857e-30 t=19281
 bang zhu 	幫助	c=1 d=1.86787e-27 t=19281
-bao 	包	c=4 d=4.87093e-09 t=19281
+bao 	包	c=4 d=0.937067 t=19281
 bao chi 	保持	c=3 d=7.31826e-26 t=19281
 bao cun 	保存	c=17 d=0.00100276 t=19281
 bao cun de 	保存的	c=2 d=1.87198e-39 t=19281
-bao cuo 	報錯	c=3 d=0.00691396 t=19281
+bao cuo 	報錯	c=3 d=0.0665368 t=19281
 bao gao 	報告	c=1 d=1.92377e-21 t=19281
 bao guo 	包裹	c=1 d=2.66763e-14 t=19281
-bao han 	包含	c=40 d=1.78597e-07 t=19281
+bao han 	包含	c=40 d=0.0183599 t=19281
 bao han le 	包含了	c=3 d=2.47059e-23 t=19281
 bao kuo 	包括	c=14 d=5.10769e-13 t=19281
 bao liu 	保留	c=3 d=6.19416e-13 t=19281
+bao ming 	包名	c=1 d=1 t=175
 bao zheng 	保證	c=3 d=8.02102e-19 t=19281
 bao zhuang 	包裝	c=1 d=2.37824e-16 t=19281
 bei 	倍	c=1 d=1.57317e-07 t=19281
 bei 	背	c=1 d=0.0098528 t=19281
-bei 	被	c=118 d=0.0132594 t=19281
+bei 	被	c=118 d=0.50409 t=19281
 bei fang 	北方	c=1 d=0.97531 t=19281
 bei fen 	備份	c=1 d=1 t=19281
 bei hou 	背後	c=1 d=2.16794e-15 t=19281
@@ -86,7 +93,8 @@ bi mian 	避免	c=0 d=1.82392e-42 t=19281
 bi mian le 	避免了	c=1 d=1.83306e-41 t=19281
 bi niu er 	鼻牛兒	c=0 d=2.22048e-33 t=19281
 bi niu er di 	鼻牛兒第	c=1 d=2.23161e-32 t=19281
-bi te 	比特	c=2 d=0.00137528 t=19281
+bi te 	比特	c=2 d=0.19208 t=19281
+bi te xu 	比特序	c=1 d=1 t=137
 bi tian 	必填	c=1 d=9.9586e-11 t=19281
 bi xu 	必需	c=1 d=4.22501e-12 t=19281
 bi xu 	必須	c=28 d=0.000344237 t=19281
@@ -106,7 +114,7 @@ bian ju 	邊距	c=3 d=2.41903e-38 t=19281
 bian lai 	變來	c=0 d=1.89874e-15 t=19281
 bian lai gong neng 	變來功能	c=1 d=1.90826e-14 t=19281
 bian li 	遍歷	c=2 d=2.86229e-05 t=19281
-bian liang 	變量	c=100 d=0.00528789 t=19281
+bian liang 	變量	c=100 d=0.802519 t=19281
 bian liang gei 	變量給	c=1 d=5.93692e-14 t=19281
 bian ma 	編碼	c=6 d=0.00190793 t=19281
 bian ti 	變體	c=1 d=1.03664e-41 t=19281
@@ -128,13 +136,14 @@ biao qi 	標齊	c=0 d=3.2409e-11 t=19281
 biao qi na 	標齊那	c=2 d=7.46038e-10 t=19281
 biao qian 	標籤	c=30 d=0.000428165 t=19281
 biao shi 	標識	c=9 d=3.41004e-18 t=19281
-biao shi 	表示	c=23 d=2.88295e-13 t=19281
+biao shi 	表示	c=23 d=0.244143 t=19281
 biao shi fu 	標識符	c=1 d=2.11003e-20 t=19281
 biao xiang 	表項	c=1 d=5.79133e-16 t=19281
 biao zhi 	標誌	c=19 d=3.44189e-12 t=19281
 biao zhong 	表中	c=2 d=3.63267e-29 t=19281
 biao zhu 	標註	c=1 d=0.00307331 t=19281
 biao zhun 	標準	c=21 d=0.193592 t=19281
+biao zhun ku 	标准库	c=1 d=1 t=248
 biao zhun shu chu 	标准输出	c=1 d=5.77834e-19 t=19281
 bie 	別	c=4 d=0.368972 t=19281
 bie de 	別的	c=2 d=0.0010701 t=19281
@@ -147,7 +156,7 @@ bing bu hui 	並不會	c=1 d=8.5316e-15 t=19281
 bing fei 	並非	c=3 d=7.9446e-29 t=19281
 bing ji 	並集	c=1 d=6.6329e-24 t=19281
 bing mei you 	並沒有	c=3 d=0.155673 t=19281
-bing qie 	並且	c=28 d=2.28994e-05 t=19281
+bing qie 	並且	c=28 d=0.197899 t=19281
 bing tong 	病痛	c=0 d=3.75299e-31 t=19281
 bing tong zhi 	病痛只	c=1 d=3.7718e-30 t=19281
 bing wei 	並未	c=2 d=6.80449e-26 t=19281
@@ -191,7 +200,7 @@ bu geng gai 	不更改	c=1 d=9.52008e-40 t=19281
 bu gou 	不夠	c=1 d=1.87705e-16 t=19281
 bu gou yong 	不夠用	c=1 d=1.85218e-16 t=19281
 bu guan 	不管	c=1 d=5.66392e-19 t=19281
-bu guo 	不過	c=1 d=2.40713e-11 t=19281
+bu guo 	不過	c=1 d=0.00800583 t=19281
 bu hao yong 	不好用	c=1 d=2.83211e-12 t=19281
 bu he shi 	不合適	c=0 d=2.48128e-16 t=19281
 bu huan 	不換	c=1 d=4.82237e-09 t=19281
@@ -225,7 +234,8 @@ bu shou 	不受	c=1 d=6.82654e-39 t=19281
 bu shu 	部署	c=9 d=6.03822e-33 t=19281
 bu shu yu 	不屬於	c=1 d=2.71588e-19 t=19281
 bu suan 	不算	c=1 d=0.0699482 t=19281
-bu tong 	不同	c=14 d=0.00427488 t=19281
+bu tai 	不太	c=1 d=1 t=78
+bu tong 	不同	c=14 d=0.696603 t=19281
 bu tong yu 	不同於	c=1 d=7.44761e-34 t=19281
 bu wan 	不玩	c=1 d=1.98061e-40 t=19281
 bu wei 	部位	c=1 d=2.14192e-20 t=19281
@@ -241,7 +251,7 @@ bu yi ding 	不一定	c=2 d=0.0148464 t=19281
 bu yi yang 	不一樣	c=1 d=0.208045 t=19281
 bu yi zhi 	不一致	c=1 d=8.49772e-27 t=19281
 bu ying 	不應	c=1 d=4.2286e-22 t=19281
-bu yong 	不用	c=4 d=0.265352 t=19281
+bu yong 	不用	c=4 d=0.909373 t=19281
 bu zai 	不再	c=3 d=6.29662e-23 t=19281
 bu zai 	不在	c=1 d=5.22296e-36 t=19281
 bu zen me 	不怎麼	c=3 d=6.96349e-08 t=19281
@@ -251,7 +261,7 @@ bu zhi dao 	不知道	c=7 d=0.484171 t=19281
 bu zhu 	不住	c=0 d=7.53936e-32 t=19281
 bu zhuo 	捕捉	c=32 d=5.22186e-21 t=19281
 bu zu 	不足	c=1 d=1.45222e-07 t=19281
-cai 	才	c=5 d=4.70444e-11 t=19281
+cai 	才	c=5 d=0.45919 t=19281
 cai dan 	菜單	c=2 d=0.000363402 t=19281
 cai dan lan 	菜單欄	c=2 d=0.000714216 t=19281
 cai hui 	纔會	c=3 d=1.79423e-23 t=19281
@@ -269,11 +279,12 @@ cang ku 	倉庫	c=72 d=0.535261 t=19281
 cao 	草	c=5 d=0.0299035 t=19281
 cao le 	草了	c=1 d=1.62021e-30 t=19281
 cao zuo 	操作	c=35 d=0.00843817 t=19281
-ce bian lan 	側邊欄	c=1 d=8.20823e-31 t=19281
+ce bian lan 	側邊欄	c=1 d=0.118245 t=19281
 ce shi 	測試	c=21 d=0.135091 t=19281
 ce yan 	測驗	c=1 d=3.3075e-14 t=19281
 ce zi 	冊子	c=1 d=0.000283018 t=19281
 ceng ji 	層級	c=1 d=9.10612e-17 t=19281
+cha 	叉	c=1 d=1 t=453
 cha 	差	c=1 d=0.000305061 t=19281
 cha bu duo de 	差不多的	c=1 d=0.71177 t=19281
 cha dao 	查到	c=1 d=3.45797e-08 t=19281
@@ -291,7 +302,7 @@ chan kan 	產看	c=1 d=2.58027e-34 t=19281
 chan shen 	纏身	c=1 d=4.65161e-26 t=19281
 chan sheng 	產生	c=42 d=0.00123305 t=19281
 chan xun 	產尋	c=1 d=3.58175e-10 t=19281
-chang 	長	c=5 d=0.00245206 t=19281
+chang 	長	c=5 d=0.120633 t=19281
 chang bei 	常被	c=1 d=3.1256e-25 t=19281
 chang chang 	常常	c=3 d=1.85988e-06 t=19281
 chang du 	長度	c=6 d=4.05093e-12 t=19281
@@ -302,6 +313,7 @@ chang liang 	常量	c=2 d=4.17781e-29 t=19281
 chang shang 	廠商	c=1 d=0.0428521 t=19281
 chang shi 	嘗試	c=2 d=1.41733e-15 t=19281
 chang yong 	常用	c=9 d=3.02807e-05 t=19281
+chao 	抄	c=2 d=1.98511 t=483
 chao chu 	超出	c=1 d=4.83732e-16 t=19281
 chao guo 	超過	c=3 d=3.12082e-08 t=19281
 chao ji 	超級	c=5 d=1.11067e-29 t=19281
@@ -310,6 +322,7 @@ chao shi 	超時	c=4 d=2.28352e-24 t=19281
 chao xing 	超星	c=1 d=6.92758e-06 t=19281
 che xia 	撤下	c=1 d=2.14527e-09 t=19281
 che xiao 	撤銷	c=13 d=2.06454e-08 t=19281
+cheng 	城	c=2 d=1.94176 t=511
 cheng 	成	c=7 d=0.000655574 t=19281
 cheng 	稱	c=2 d=8.32525e-26 t=19281
 cheng gong 	成功	c=8 d=4.32467e-05 t=19281
@@ -330,6 +343,7 @@ chong 	重	c=1 d=0.00400585 t=19281
 chong ding xiang 	重定向	c=9 d=4.255e-07 t=19281
 chong ding yi 	重定義	c=2 d=2.40683e-14 t=19281
 chong fu 	重複	c=6 d=4.5576e-05 t=19281
+chong gou 	重構	c=3 d=1.70211 t=300
 chong ming 	崇明	c=1 d=2.33718e-17 t=19281
 chong ming 	重名	c=4 d=5.31601e-13 t=19281
 chong ming ming 	重命名	c=3 d=3.39802e-30 t=19281
@@ -352,7 +366,7 @@ chu 	處	c=3 d=0.00551178 t=19281
 chu bu 	初步	c=1 d=4.08816e-07 t=19281
 chu cuo 	出錯	c=9 d=9.96218e-15 t=19281
 chu fei 	除非	c=4 d=0.013912 t=19281
-chu lai 	出來	c=3 d=0.00155885 t=19281
+chu lai 	出來	c=3 d=0.246597 t=19281
 chu le 	除了	c=10 d=2.15046e-08 t=19281
 chu li 	處理	c=77 d=0.00141302 t=19281
 chu li cheng xu 	處理程序	c=2 d=9.62426e-21 t=19281
@@ -365,7 +379,7 @@ chu shu 	出書	c=1 d=3.53443e-30 t=19281
 chu shu 	除數	c=1 d=3.55215e-30 t=19281
 chu ti 	出題	c=1 d=2.18214e-33 t=19281
 chu xi 	齣戲	c=1 d=2.45451e-05 t=19281
-chu xian 	出現	c=11 d=8.9903e-13 t=19281
+chu xian 	出現	c=11 d=0.19205 t=19281
 chu xian zai 	出現在	c=1 d=1.62971e-40 t=19281
 chu yu 	處於	c=3 d=1.04159e-23 t=19281
 chuan 	串	c=1 d=4.6573e-11 t=19281
@@ -427,7 +441,7 @@ da shu ju 	大数据	c=1 d=4.54154e-09 t=19281
 da suan 	打算	c=1 d=0.000332131 t=19281
 da ti 	大體	c=1 d=1.62191e-13 t=19281
 da ti 	答題	c=1 d=0.0293049 t=19281
-da xiao 	大小	c=5 d=7.70928e-05 t=19281
+da xiao 	大小	c=5 d=0.132655 t=19281
 da xiao xie 	大小寫	c=1 d=7.07234e-14 t=19281
 da xue 	大學	c=1 d=1.94581e-08 t=19281
 da yin 	打印	c=5 d=1.1008e-17 t=19281
@@ -439,13 +453,14 @@ dai bian 	帶變	c=1 d=1.31492e-15 t=19281
 dai biao 	代表	c=11 d=3.22378e-05 t=19281
 dai kuan 	帶寬	c=1 d=2.7966e-40 t=19281
 dai lai 	帶來	c=1 d=6.00885e-38 t=19281
-dai li 	代理	c=1 d=7.76897e-31 t=19281
+dai li 	代理	c=3 d=2.28718 t=19281
 dai lu jing 	帶路徑	c=1 d=9.90692e-38 t=19281
-dai ma 	代碼	c=16 d=0.121662 t=19281
+dai ma 	代碼	c=16 d=1.04934 t=19281
 dai ma kuai 	代碼塊	c=2 d=1.64713e-38 t=19281
 dai ma kuai 	代碼快	c=1 d=7.32152e-39 t=19281
 dai mian ju 	帶面具	c=1 d=0.00135358 t=19281
 dai pao 	代跑	c=1 d=0.00130051 t=19281
+dai ru 	代入	c=1 d=1 t=19
 dai shang 	帶上	c=1 d=1.28464e-35 t=19281
 dai you 	帶有	c=4 d=1.46078e-06 t=19281
 dai zai 	待在	c=1 d=3.41577e-40 t=19281
@@ -454,7 +469,7 @@ dan 	單	c=2 d=4.90625e-06 t=19281
 dan bu fen 	但部分	c=1 d=1.5272e-11 t=19281
 dan ci 	單詞	c=4 d=6.36076e-11 t=19281
 dan dang 	擔當	c=1 d=7.24251e-29 t=19281
-dan du 	單獨	c=3 d=2.85805e-31 t=19281
+dan du 	單獨	c=3 d=0.110251 t=19281
 dan ge 	單個	c=2 d=1.70832e-06 t=19281
 dan na 	但那	c=0 d=3.72919e-15 t=19281
 dan na gong zuo 	但那工作	c=1 d=3.74788e-14 t=19281
@@ -473,6 +488,7 @@ dang ran 	當然	c=2 d=1.56559e-09 t=19281
 dang ta 	當他	c=1 d=1.2224e-39 t=19281
 dang zuo 	當作	c=5 d=9.00742e-11 t=19281
 dao 	到	c=86 d=0.872497 t=19281
+dao chu 	導出	c=1 d=1 t=96
 dao da 	到達	c=2 d=1.35899e-20 t=19281
 dao di 	到底	c=1 d=2.76548e-26 t=19281
 dao le 	到了	c=1 d=0.000246044 t=19281
@@ -482,12 +498,12 @@ dao xue xiao 	到學校	c=1 d=4.2874e-08 t=19281
 dao zhi 	導致	c=6 d=2.75096e-21 t=19281
 de 	地	c=1 d=8.70246e-13 t=19281
 de 	得	c=3 d=0.00766007 t=19281
-de 	的	c=1162 d=9.16323 t=19281
+de 	的	c=1162 d=10.6101 t=19281
 de dao 	得到	c=3 d=0.000228266 t=19281
 de na ge 	的哪個	c=1 d=2.01821e-26 t=19281
 de shi yong 	的使用	c=1 d=1.99643e-16 t=19281
 de yi yu 	得益於	c=1 d=1.88895e-12 t=19281
-deng 	等	c=8 d=0.00535353 t=19281
+deng 	等	c=8 d=0.379083 t=19281
 deng 	鄧	c=1 d=3.4837e-07 t=19281
 deng dai 	等待	c=5 d=2.02764e-22 t=19281
 deng deng 	等等	c=1 d=1.24128e-35 t=19281
@@ -516,18 +532,23 @@ di er zhong 	第二種	c=1 d=2.42505e-10 t=19281
 di fang 	地方	c=2 d=0.637628 t=19281
 di gui 	遞歸	c=2 d=8.61605e-13 t=19281
 di jiao 	遞交	c=1 d=8.11965e-21 t=19281
+di liu 	第六	c=0 d=0.1 t=564
+di liu ji 	第六季	c=1 d=1 t=565
 di pin 	低頻	c=1 d=0.0742736 t=19281
 di san ge 	第三個	c=1 d=4.38608e-11 t=19281
 di san ji 	第三季	c=1 d=0.839457 t=19281
 di song 	遞送	c=19 d=3.19863e-22 t=19281
 di su 	低速	c=8 d=1.87885e-26 t=19281
+di wu 	第五	c=0 d=0.1 t=490
+di wu ji 	第五季	c=2 d=1.88692 t=515
 di yi 	第一	c=2 d=1.02816e-11 t=19281
 di yi ge 	第一個	c=7 d=0.000152575 t=19281
-di yi hang 	第一行	c=1 d=1.57339e-38 t=19281
+di yi hang 	第一行	c=1 d=0.08291 t=19281
 di yi ji 	第一季	c=2 d=0.894187 t=19281
+di yi ji 	第一集	c=1 d=1 t=566
 di yi ti dui 	第一梯隊	c=1 d=4.35516e-16 t=19281
 di yi zhong 	第一種	c=2 d=2.30678e-10 t=19281
-di zhi 	地址	c=16 d=0.0013998 t=19281
+di zhi 	地址	c=16 d=0.305968 t=19281
 dia yong 	嗲用	c=1 d=1.26922e-40 t=19281
 dian 	電	c=4 d=0.046964 t=19281
 dian 	點	c=5 d=0.0507027 t=19281
@@ -552,6 +573,7 @@ diao yong zhe 	调用者	c=7 d=1.81834e-05 t=19281
 ding 	頂	c=1 d=1.64558e-07 t=19281
 ding dan 	訂單	c=1 d=0.000108909 t=19281
 ding duan 	頂端	c=0 d=1.37451e-08 t=19281
+ding li 	定理	c=1 d=1 t=21
 ding shi qi 	定時器	c=3 d=1.21036e-24 t=19281
 ding xiang 	定向	c=1 d=6.11129e-31 t=19281
 ding yi 	定義	c=30 d=0.0347211 t=19281
@@ -561,12 +583,13 @@ ding zhi 	定製	c=0 d=1.53538e-16 t=19281
 diu qi 	丟棄	c=9 d=6.55719e-09 t=19281
 diu shi 	丟失	c=3 d=0.0934807 t=19281
 dong 	動	c=1 d=1.34729e-07 t=19281
+dong hua 	動畫	c=1 d=1 t=524
 dong jie 	凍結	c=3 d=1.09025e-08 t=19281
 dong shou 	動手	c=2 d=0.0130783 t=19281
 dong tai 	動態	c=3 d=0.122609 t=19281
 dong xi 	東西	c=3 d=0.283716 t=19281
 dong zuo 	動作	c=26 d=6.59044e-22 t=19281
-dou 	都	c=46 d=0.629568 t=19281
+dou 	都	c=46 d=1.31676 t=19281
 dou ban 	豆瓣	c=2 d=1.06611 t=19281
 dou bei 	都被	c=2 d=1.10897e-11 t=19281
 dou bi 	都比	c=1 d=5.77244e-07 t=19281
@@ -579,9 +602,10 @@ dou jiang 	都將	c=1 d=8.24797e-29 t=19281
 dou ke 	都可	c=1 d=9.80167e-30 t=19281
 dou ke yi 	都可以	c=3 d=5.05876e-07 t=19281
 dou neng 	都能	c=3 d=8.17034e-06 t=19281
-dou shi 	都是	c=21 d=0.0357281 t=19281
+dou shi 	都是	c=21 d=0.10435 t=19281
 dou shuo le 	都說了	c=1 d=2.05507e-33 t=19281
 dou yao 	都要	c=3 d=9.37546e-07 t=19281
+dou yong 	都用	c=1 d=1 t=403
 dou you 	都有	c=3 d=7.63095e-26 t=19281
 dou zai 	都在	c=1 d=0.0464212 t=19281
 dou zhi chi 	都支持	c=2 d=2.55372e-30 t=19281
@@ -596,19 +620,21 @@ du qu 	讀取	c=8 d=0.215412 t=19281
 du xie 	讀寫	c=3 d=0.00559994 t=19281
 du yi wu er 	獨一無二	c=1 d=3.47648e-12 t=19281
 duan 	段	c=3 d=0.0188269 t=19281
+duan 	端	c=1 d=1 t=116
 duan kai 	斷開	c=2 d=5.15062e-19 t=19281
 duan lu 	短路	c=2 d=1.07509e-10 t=19281
 duan shou 	段首	c=1 d=4.32225e-15 t=19281
 dui 	堆	c=9 d=2.21715e-25 t=19281
-dui 	對	c=56 d=0.646868 t=19281
+dui 	對	c=56 d=1.30992 t=19281
 dui bi 	對比	c=1 d=2.48128e-15 t=19281
 dui biao 	對標	c=1 d=1.03186e-16 t=19281
 dui de 	對的	c=1 d=2.19988e-40 t=19281
 dui fu 	對付	c=0 d=5.99761e-17 t=19281
 dui hua 	對話	c=1 d=6.29098e-19 t=19281
 dui lie 	隊列	c=4 d=5.42142e-06 t=19281
-dui qi 	對其	c=2 d=2.42876e-28 t=19281
-dui qi 	對齊	c=4 d=1.95271e-12 t=19281
+dui ou 	對偶	c=2 d=1.98511 t=20
+dui qi 	對其	c=2 d=0.170333 t=19281
+dui qi 	對齊	c=4 d=1.09489 t=19281
 dui shou 	隊首	c=1 d=2.27754e-07 t=19281
 dui wei 	隊尾	c=1 d=2.26618e-07 t=19281
 dui wo 	對我	c=1 d=6.8989e-16 t=19281
@@ -627,7 +653,7 @@ duo jiu 	多久	c=1 d=7.44888e-36 t=19281
 duo le 	多了	c=1 d=3.77642e-16 t=19281
 duo mu biao 	多目標	c=2 d=7.87754e-17 t=19281
 duo sa hou 	多撒後	c=1 d=0.000199439 t=19281
-duo shao 	多少	c=5 d=0.0120796 t=19281
+duo shao 	多少	c=5 d=0.516851 t=19281
 duo wen jian 	多文件	c=1 d=1.1205e-15 t=19281
 duo zhong 	多種	c=1 d=4.20465e-14 t=19281
 e 	額	c=0 d=6.6124e-18 t=19281
@@ -658,7 +684,7 @@ fa she ne ge 	發射呢個	c=1 d=1.57585e-27 t=19281
 fa sheng 	發生	c=29 d=4.96919e-05 t=19281
 fa sheng le 	發生了	c=1 d=3.70089e-42 t=19281
 fa sheng shi 	發生時	c=2 d=3.9326e-30 t=19281
-fa song 	發送	c=33 d=1.71495e-17 t=19281
+fa song 	發送	c=33 d=0.219808 t=19281
 fa song gei 	發送給	c=2 d=4.29105e-18 t=19281
 fa xian 	發現	c=2 d=5.00722e-09 t=19281
 fa xing 	發行	c=0 d=5.01918e-10 t=19281
@@ -673,23 +699,25 @@ fan le 	犯了	c=1 d=1.22878e-12 t=19281
 fan qie 	番茄	c=1 d=1.87462e-40 t=19281
 fan wei 	範圍	c=4 d=0.000359139 t=19281
 fan xing 	泛型	c=3 d=0.0674215 t=19281
+fan yan 	反演	c=4 d=4.01639 t=15
+fan yan lv 	反演律	c=1 d=1 t=6
 fan yi 	翻譯	c=2 d=1.64601e-30 t=19281
 fan ying 	反映	c=1 d=0.00624456 t=19281
 fan za 	繁雜	c=1 d=4.71789e-16 t=19281
 fan zhuan 	反轉	c=1 d=0.373439 t=19281
 fang 	放	c=0 d=6.32251e-20 t=19281
 fang bian 	方便	c=2 d=2.72671e-07 t=19281
-fang dao 	放到	c=1 d=2.53753e-14 t=19281
+fang dao 	放到	c=1 d=0.941765 t=19281
 fang fa 	方法	c=25 d=0.0273917 t=19281
-fang fa 	訪法	c=7 d=6.39116e-19 t=19281
+fang fa 	訪法	c=7 d=0.212248 t=19281
 fang fa ma 	方法嗎	c=1 d=0.00110269 t=19281
 fang fa song 	放發送	c=1 d=6.3542e-19 t=19281
 fang mian 	方面	c=1 d=0.246597 t=19281
 fang qi 	放棄	c=6 d=0.937322 t=19281
 fang ru 	放入	c=1 d=5.0416e-32 t=19281
 fang shi 	方式	c=18 d=0.0288636 t=19281
-fang song 	放鬆	c=1 d=0.101266 t=19281
-fang wen 	訪問	c=12 d=8.79209e-06 t=19281
+fang song 	放鬆	c=2 d=0.434223 t=19281
+fang wen 	訪問	c=12 d=0.687252 t=19281
 fang wen kong zhi 	访问控制	c=1 d=3.83206e-40 t=19281
 fang wen quan xian 	訪問權限	c=1 d=4.63392e-40 t=19281
 fang xiang 	方向	c=1 d=4.5643e-09 t=19281
@@ -729,6 +757,7 @@ fu 	父	c=2 d=3.69476e-14 t=19281
 fu 	符	c=3 d=3.04059e-11 t=19281
 fu ben 	副本	c=2 d=2.09302e-13 t=19281
 fu ben 	複本	c=1 d=1.69184e-39 t=19281
+fu chuan 	符串	c=0 d=0.1 t=302
 fu dian 	浮點	c=1 d=0.0122773 t=19281
 fu dian shu 	浮點數	c=3 d=0.0922793 t=19281
 fu fei 	付費	c=1 d=2.99326e-16 t=19281
@@ -750,12 +779,12 @@ fu xing 	復興	c=1 d=1.95923e-30 t=19281
 fu yong 	復用	c=3 d=0.194662 t=19281
 fu yong 	服用	c=1 d=3.68632e-25 t=19281
 fu yong le 	復用了	c=1 d=0.174645 t=19281
-fu yu 	賦予	c=1 d=3.1004e-18 t=19281
+fu yu 	賦予	c=1 d=0.085435 t=19281
 fu za 	複雜	c=5 d=0.00625109 t=19281
 fu za le 	複雜了	c=1 d=3.27626e-20 t=19281
 fu zai 	負載	c=1 d=0.000208619 t=19281
 fu zhi 	複製	c=7 d=0.220985 t=19281
-fu zhi 	賦值	c=5 d=7.24869e-06 t=19281
+fu zhi 	賦值	c=5 d=0.0850088 t=19281
 fu zhi zhan tie 	賦值粘貼	c=1 d=6.62275e-06 t=19281
 fu zhu 	輔助	c=1 d=0.0401553 t=19281
 fu zhu 	附註	c=6 d=1.37692e-09 t=19281
@@ -782,17 +811,19 @@ gai zuo ye 	該作業	c=1 d=8.42777e-18 t=19281
 gan 	幹	c=1 d=5.06876e-07 t=19281
 gan 	感	c=1 d=8.21828e-16 t=19281
 gan 	趕	c=1 d=0.0208584 t=19281
+gan diao 	幹掉	c=1 d=1 t=460
 gan jin 	趕緊	c=1 d=4.79995e-13 t=19281
-gan jue 	感覺	c=7 d=0.0133485 t=19281
+gan jue 	感覺	c=7 d=0.0773047 t=19281
 gan tan 	感嘆	c=1 d=1.07062e-38 t=19281
 gan xie 	感謝	c=4 d=0.0693612 t=19281
 gan xing 	感性	c=1 d=1.07899e-12 t=19281
 gan xing qu 	感興趣	c=1 d=1.12302e-12 t=19281
 gan yong 	敢用	c=1 d=6.67204e-05 t=19281
-gang 	剛	c=1 d=2.3352e-07 t=19281
+gang 	剛	c=1 d=0.0706512 t=19281
 gang gang 	剛剛	c=3 d=3.53695e-09 t=19281
-gao 	搞	c=3 d=0.047516 t=19281
+gao 	搞	c=3 d=0.109701 t=19281
 gao 	高	c=1 d=0.0611149 t=19281
+gao chao 	高潮	c=1 d=1 t=418
 gao de 	搞得	c=1 d=9.05454e-09 t=19281
 gao du 	高度	c=1 d=1.53538e-15 t=19281
 gao fang 	高仿	c=1 d=2.92641e-15 t=19281
@@ -801,7 +832,8 @@ gao kao 	高考	c=1 d=1.79621e-08 t=19281
 gao le 	搞了	c=3 d=7.46435e-31 t=19281
 gao su 	告訴	c=3 d=1.20757e-13 t=19281
 gao su 	高速	c=4 d=1.20154e-13 t=19281
-gao xiao 	高校	c=1 d=1.00638e-16 t=19281
+gao xiao 	高效	c=1 d=1 t=284
+gao xiao 	高校	c=1 d=0.209088 t=19281
 gao xing neng 	高性能	c=2 d=0.0203041 t=19281
 gao yi ge 	搞一個	c=2 d=0.00158179 t=19281
 gao zhi 	告知	c=1 d=7.12497e-13 t=19281
@@ -830,7 +862,7 @@ gei ni 	給你	c=2 d=0.0720785 t=19281
 gei ta 	給他	c=2 d=0.000263884 t=19281
 gei wo 	給我	c=5 d=0.0391639 t=19281
 gen 	根	c=2 d=9.94634e-05 t=19281
-gen 	跟	c=2 d=2.79556e-14 t=19281
+gen 	跟	c=2 d=0.0784731 t=19281
 gen ben 	根本	c=1 d=7.79199e-07 t=19281
 gen duo le 	跟多了	c=1 d=3.79535e-15 t=19281
 gen jie dian 	根節點	c=1 d=3.78297e-06 t=19281
@@ -867,6 +899,7 @@ gong ju 	工具	c=6 d=0.524663 t=19281
 gong ju lian 	工具鏈	c=1 d=3.4508e-13 t=19281
 gong kai 	公開	c=1 d=1.39813e-31 t=19281
 gong neng 	功能	c=13 d=0.88692 t=19281
+gong shi 	公式	c=1 d=1 t=308
 gong si 	公司	c=1 d=0.0136366 t=19281
 gong xiang 	共享	c=1 d=3.36549e-42 t=19281
 gong ye 	工業	c=1 d=0.0205478 t=19281
@@ -879,6 +912,7 @@ gong zuo qu 	工作區	c=15 d=1.67985e-08 t=19281
 gou 	夠	c=2 d=4.66777e-08 t=19281
 gou 	狗	c=1 d=0.000280202 t=19281
 gou ba 	勾吧	c=1 d=3.48311e-05 t=19281
+gou cheng 	構成	c=1 d=1 t=591
 gou jian 	構建	c=1 d=0.299692 t=19281
 gou mai 	購買	c=3 d=2.31817e-35 t=19281
 gou shi dui 	狗屎堆	c=1 d=2.32426e-40 t=19281
@@ -900,8 +934,10 @@ gua le 	掛了	c=2 d=9.11685e-15 t=19281
 gua lian 	刮臉	c=1 d=1.80675e-18 t=19281
 gua nian 	掛念	c=1 d=1.99162e-17 t=19281
 gua qi 	掛起	c=4 d=1.05148e-17 t=19281
-guai wu 	怪物	c=1 d=0.429557 t=19281
-guan 	管	c=1 d=0.00867838 t=19281
+guai guai 	怪怪	c=1 d=1 t=85
+guai wu 	怪物	c=1 d=1 t=19281
+guan 	管	c=1 d=0.0968105 t=19281
+guan 	關	c=1 d=1 t=570
 guan bi 	關閉	c=9 d=0.000964411 t=19281
 guan cha 	觀察	c=3 d=2.69536e-18 t=19281
 guan dao 	管道	c=4 d=6.60155e-18 t=19281
@@ -917,10 +953,10 @@ guan xin 	關心	c=1 d=1.44149e-09 t=19281
 guan yu 	關於	c=10 d=0.00594622 t=19281
 guan zhu 	關注	c=3 d=2.19883e-05 t=19281
 guang 	光	c=1 d=3.25759e-41 t=19281
-gui ding 	規定	c=4 d=6.52847e-22 t=19281
+gui ding 	規定	c=4 d=0.371912 t=19281
 gui ding le 	規定了	c=1 d=7.82413e-26 t=19281
 gui fan 	規範	c=2 d=3.66481e-15 t=19281
-gui ze 	規則	c=23 d=0.00812487 t=19281
+gui ze 	規則	c=23 d=0.218472 t=19281
 gui zhong 	貴重	c=1 d=1.83849e-17 t=19281
 guo 	過	c=3 d=5.6445e-08 t=19281
 guo bu liao 	過不了	c=1 d=2.34037e-33 t=19281
@@ -929,6 +965,7 @@ guo duo 	過多	c=1 d=7.42712e-31 t=19281
 guo le 	過了	c=1 d=2.5327e-21 t=19281
 guo nei 	國內	c=4 d=0.0413782 t=19281
 guo shi 	過世	c=1 d=1.36528e-16 t=19281
+guo wai 	國外	c=3 d=2.898 t=533
 ha 	哈	c=1 d=3.32464e-16 t=19281
 ha shi 	哈市	c=0 d=9.97928e-07 t=19281
 ha shi nong hu 	哈市農戶	c=1 d=1.00293e-05 t=19281
@@ -940,26 +977,29 @@ hai ji de 	還記得	c=2 d=0.0011458 t=19281
 hai ke yi 	還可以	c=1 d=1.26246e-36 t=19281
 hai mei 	還沒	c=2 d=0.000536738 t=19281
 hai neng 	還能	c=2 d=7.76076e-39 t=19281
-hai shi 	還是	c=27 d=0.0902268 t=19281
+hai shi 	還是	c=27 d=0.429557 t=19281
+hai ting 	還挺	c=0 d=0.1 t=49
 hai ting hao 	還挺好	c=1 d=0.324652 t=19281
+hai ting hao wan 	還挺好玩	c=1 d=1 t=50
 hai wei 	還未	c=1 d=6.38932e-25 t=19281
 hai xu 	還需	c=0 d=5.5269e-26 t=19281
 hai xu yao 	還需要	c=1 d=5.55461e-25 t=19281
-hai you 	還有	c=14 d=0.0660444 t=19281
+hai you 	還有	c=14 d=0.284706 t=19281
+hai you dian 	還有點	c=1 d=1 t=152
 hai zai 	還在	c=1 d=3.84068e-37 t=19281
 hai zhi 	海之	c=0 d=2.60531e-31 t=19281
 hai zhi chi 	海之吃	c=1 d=2.61837e-30 t=19281
 hai zi 	孩子	c=0 d=1.87493e-43 t=19281
 han 	汗	c=0 d=1.49691e-41 t=19281
-han shu 	函數	c=201 d=0.33302 t=19281
+han shu 	函數	c=201 d=0.814375 t=19281
 han shu zu 	函數族	c=1 d=1.01612e-41 t=19281
 han yi 	含義	c=14 d=0.00161451 t=19281
-hang 	行	c=8 d=5.0996e-12 t=19281
+hang 	行	c=8 d=0.519442 t=19281
 hang shou 	行首	c=1 d=2.24325e-05 t=19281
 hang shu 	行數	c=2 d=4.78868e-07 t=19281
 hang zhu shi 	行註釋	c=1 d=8.72499e-14 t=19281
-hao 	好	c=5 d=0.00209182 t=19281
-hao 	號	c=5 d=2.09878e-07 t=19281
+hao 	好	c=5 d=0.771052 t=19281
+hao 	號	c=5 d=0.163654 t=19281
 hao ba 	好吧	c=1 d=0.000294568 t=19281
 hao de 	好的	c=3 d=9.33505e-13 t=19281
 hao jiu 	好久	c=1 d=5.30206e-07 t=19281
@@ -967,24 +1007,26 @@ hao kan 	好看	c=0 d=3.39758e-37 t=19281
 hao le 	好了	c=2 d=4.30889e-08 t=19281
 hao wan 	好玩	c=3 d=0.236161 t=19281
 hao xiang 	好像	c=2 d=1.19803e-08 t=19281
-he 	和	c=185 d=0.568377 t=19281
+hao yong 	好用	c=1 d=1 t=330
+he 	和	c=185 d=5.31099 t=19281
 he bing 	合併	c=20 d=1.89984e-31 t=19281
 he chu 	何處	c=2 d=1.23557e-18 t=19281
-he fa 	合法	c=2 d=3.94755e-07 t=19281
+he fa 	合法	c=3 d=0.60481 t=19281
 he fa zhi 	合法值	c=2 d=2.09012e-36 t=19281
 he shi 	何時	c=1 d=4.38907e-19 t=19281
 he shi 	合適	c=2 d=4.36718e-19 t=19281
 he xin 	核心	c=2 d=0.0320647 t=19281
 hei dong 	黑洞	c=1 d=0.644036 t=19281
-hen 	很	c=8 d=1.44889e-09 t=19281
+hen 	很	c=8 d=0.683861 t=19281
 hen bu cuo 	很不錯	c=1 d=3.61959e-16 t=19281
 hen bu he shi 	很不合適	c=1 d=2.49372e-15 t=19281
 hen cha 	很差	c=1 d=3.86268e-16 t=19281
 hen duan 	很短	c=1 d=2.18259e-06 t=19281
-hen duo 	很多	c=14 d=0.00603608 t=19281
+hen duo 	很多	c=14 d=0.373439 t=19281
 hen duo ci 	很多次	c=1 d=5.29738e-26 t=19281
 hen fang bian 	很方便	c=2 d=2.76689e-32 t=19281
 hen fu za 	很複雜	c=1 d=6.62726e-14 t=19281
+hen gao 	很高	c=1 d=1 t=413
 hen guan xin 	很關心	c=1 d=1.44872e-08 t=19281
 hen ha 	很哈	c=1 d=1.26969e-15 t=19281
 hen hao 	很好	c=2 d=2.90232e-06 t=19281
@@ -1005,16 +1047,16 @@ hen xiao 	很小	c=2 d=1.28534e-12 t=19281
 hen you 	很有	c=0 d=3.4217e-32 t=19281
 hen you yong 	很有用	c=1 d=3.43885e-31 t=19281
 hong 	哄	c=0 d=1.28577e-17 t=19281
-hong 	宏	c=8 d=0.360479 t=19281
+hong 	宏	c=8 d=0.69967 t=19281
 hong wen 	紅溫	c=1 d=6.84211e-07 t=19281
 hong wo ru shui 	哄我入睡	c=2 d=2.7275e-16 t=19281
-hou 	後	c=39 d=9.72187e-06 t=19281
+hou 	後	c=39 d=0.369934 t=19281
 hou ai 	厚愛	c=2 d=1.35733e-17 t=19281
 hou de 	厚的	c=1 d=8.4249e-14 t=19281
 hou guo 	後果	c=1 d=1.53058e-37 t=19281
 hou jue 	後覺	c=1 d=2.8903e-16 t=19281
 hou liang ge 	後兩個	c=1 d=1.08436e-41 t=19281
-hou mian 	後面	c=6 d=0.000843878 t=19281
+hou mian 	後面	c=6 d=0.0728029 t=19281
 hou ta 	後它	c=1 d=9.34618e-29 t=19281
 hou tai 	後臺	c=18 d=4.15698e-12 t=19281
 hou xuan 	候選	c=1 d=1.69541e-05 t=19281
@@ -1044,7 +1086,7 @@ huan hang 	換行	c=2 d=2.18576e-11 t=19281
 huan hang fu 	換行符	c=1 d=6.2252e-13 t=19281
 huan huan 	換換	c=1 d=1.3199e-30 t=19281
 huan hui 	換回	c=1 d=6.925e-31 t=19281
-huan jing 	環境	c=14 d=4.48161e-06 t=19281
+huan jing 	環境	c=14 d=1.58122 t=19281
 huan jing bian liang 	環境變量	c=1 d=3.74712e-41 t=19281
 huan jing biao 	環境表	c=3 d=2.35405e-40 t=19281
 huan le 	換了	c=1 d=5.2338e-31 t=19281
@@ -1052,6 +1094,7 @@ huan xing 	喚醒	c=4 d=9.65749e-21 t=19281
 huang jia hu 	黃家湖	c=1 d=0.000270565 t=19281
 hui 	會	c=158 d=0.53335 t=19281
 hui bei 	會被	c=11 d=1.64543e-05 t=19281
+hui bian 	彙編	c=3 d=2.72452 t=446
 hui che 	回車	c=1 d=3.78684e-18 t=19281
 hui dao 	回到	c=2 d=1.85454e-22 t=19281
 hui fu 	恢復	c=29 d=8.40942e-09 t=19281
@@ -1064,13 +1107,15 @@ hui zai 	會在	c=5 d=4.46465e-14 t=19281
 hun dan 	混蛋	c=1 d=0.0319048 t=19281
 hun luan 	混亂	c=1 d=0.0216013 t=19281
 huo 	或	c=66 d=4.46599e-06 t=19281
+huo 	火	c=1 d=1 t=521
 huo de 	獲得	c=5 d=0.000143382 t=19281
 huo dong 	活動	c=1 d=2.9133e-21 t=19281
 huo hu 	火狐	c=3 d=0.0992613 t=19281
-huo qu 	獲取	c=26 d=0.000869201 t=19281
+huo qu 	獲取	c=26 d=0.271009 t=19281
 huo zhe 	或者	c=11 d=0.202909 t=19281
 ji 	即	c=6 d=1.24714e-10 t=19281
 ji 	及	c=1 d=2.28025e-21 t=19281
+ji 	季	c=0 d=0.169073 t=564
 ji 	機	c=1 d=0.0389686 t=19281
 ji 	級	c=2 d=7.37726e-08 t=19281
 ji 	集	c=1 d=1.73902e-24 t=19281
@@ -1119,10 +1164,12 @@ ji zhu 	記住	c=1 d=4.06487e-28 t=19281
 jia 	加	c=2 d=0.30248 t=19281
 jia 	賈	c=2 d=0.0876433 t=19281
 jia ge 	加個	c=3 d=0.219404 t=19281
-jia gou 	架構	c=2 d=0.000107978 t=19281
+jia gou 	架構	c=2 d=0.907794 t=19281
+jia le 	加了	c=1 d=1 t=302
 jia li 	家裏	c=1 d=4.0783e-08 t=19281
 jia ru 	加入	c=10 d=6.91339e-20 t=19281
 jia shang 	加上	c=8 d=2.05258e-11 t=19281
+jia su 	加速	c=1 d=1 t=450
 jia you 	加油	c=1 d=1.12069e-17 t=19281
 jia zai 	加載	c=1 d=1.29733e-33 t=19281
 jian 	建	c=1 d=9.53122e-30 t=19281
@@ -1131,7 +1178,7 @@ jian 	間	c=2 d=2.49415e-17 t=19281
 jian an 	建安	c=1 d=0.00226541 t=19281
 jian ao 	煎熬	c=0 d=1.24671e-07 t=19281
 jian ao pei ni 	煎熬陪你	c=1 d=1.25296e-06 t=19281
-jian ce 	檢測	c=13 d=0.174076 t=19281
+jian ce 	檢測	c=13 d=0.203926 t=19281
 jian ce dao 	檢測到	c=2 d=8.81568e-18 t=19281
 jian cha 	檢查	c=12 d=0.000933343 t=19281
 jian chu 	檢出	c=2 d=1.17258e-31 t=19281
@@ -1144,7 +1191,7 @@ jian gui le 	見鬼了	c=1 d=2.2444e-11 t=19281
 jian hua 	簡化	c=5 d=1.80017e-14 t=19281
 jian ji 	剪輯	c=2 d=9.10568e-07 t=19281
 jian jie 	簡介	c=2 d=8.01265e-12 t=19281
-jian jie 	間接	c=1 d=8.05281e-12 t=19281
+jian jie 	間接	c=1 d=0.161218 t=19281
 jian kong 	監控	c=1 d=1.65868e-12 t=19281
 jian li 	建立	c=3 d=1.02075e-18 t=19281
 jian lve 	簡略	c=1 d=1.14333e-17 t=19281
@@ -1154,6 +1201,7 @@ jian shao 	減少	c=1 d=6.67182e-34 t=19281
 jian suo 	檢索	c=2 d=3.45978e-35 t=19281
 jian xiao 	減小	c=1 d=1.72996e-07 t=19281
 jian yi 	建議	c=5 d=2.99427e-20 t=19281
+jian zao 	建造	c=2 d=1.97045 t=509
 jian zhan 	建站	c=1 d=3.07007e-20 t=19281
 jiang 	將	c=125 d=0.022393 t=19281
 jiang 	講	c=3 d=3.90306e-16 t=19281
@@ -1165,6 +1213,7 @@ jiang guo 	講過	c=1 d=1.24071e-08 t=19281
 jiang hui 	將會	c=2 d=1.92001e-05 t=19281
 jiang hui bei 	將會被	c=1 d=1.42323e-05 t=19281
 jiang lai 	將來	c=1 d=3.9536e-25 t=19281
+jiang le 	講了	c=1 d=1 t=567
 jiang qi 	將其	c=2 d=5.40874e-39 t=19281
 jiang quan 	降權	c=4 d=1.4285e-38 t=19281
 jiang shi 	將是	c=1 d=1.24604e-29 t=19281
@@ -1174,7 +1223,7 @@ jiang ta men 	將它們	c=1 d=3.83141e-38 t=19281
 jiang yao 	將要	c=1 d=5.60566e-15 t=19281
 jiao ben 	腳本	c=2 d=0.0281559 t=19281
 jiao chang 	較長	c=1 d=5.60452e-42 t=19281
-jiao cheng 	教程	c=13 d=0.211508 t=19281
+jiao cheng 	教程	c=13 d=0.510448 t=19281
 jiao du 	角度	c=1 d=2.68192e-18 t=19281
 jiao hu 	交互	c=5 d=9.28217e-07 t=19281
 jiao hu shi 	交互式	c=1 d=9.02472e-29 t=19281
@@ -1194,8 +1243,9 @@ jie dao 	接到	c=1 d=4.17856e-29 t=19281
 jie dian 	節點	c=25 d=0.000210761 t=19281
 jie duan 	階段	c=1 d=3.08924e-05 t=19281
 jie fang lu 	解放路	c=0 d=2.49839e-38 t=19281
-jie gou 	結構	c=27 d=0.00488546 t=19281
-jie gou ti 	结构体	c=2 d=9.6482e-42 t=19281
+jie gou 	結構	c=27 d=0.205707 t=19281
+jie gou ti 	结构体	c=3 d=0.40688 t=19281
+jie guan 	接管	c=1 d=1 t=35
 jie guo 	結果	c=19 d=0.000203075 t=19281
 jie he 	結合	c=2 d=3.92286e-20 t=19281
 jie jue 	解決	c=6 d=6.33672e-16 t=19281
@@ -1231,6 +1281,7 @@ jin cheng zu 	進程組	c=39 d=3.55455e-17 t=19281
 jin dang 	僅當	c=2 d=2.1547e-38 t=19281
 jin du 	進度	c=1 d=9.5431e-39 t=19281
 jin gu 	禁錮	c=1 d=0.00752142 t=19281
+jin hua 	進化	c=1 d=1 t=42
 jin jin 	僅僅	c=1 d=8.25526e-10 t=19281
 jin kou liang 	進口量	c=0 d=2.41246e-38 t=19281
 jin kou liang feng dao shuang jian a lie fu kong shou dao ji lu 	進口量風刀霜劍阿列夫空手道記錄	c=1 d=2.42456e-37 t=19281
@@ -1249,7 +1300,7 @@ jing an 	靜安	c=0 d=0.0064894 t=19281
 jing an tai ni 	靜安太你	c=1 d=0.0652193 t=19281
 jing chang 	經常	c=3 d=9.26609e-16 t=19281
 jing chen 	敬陳	c=1 d=5.2846e-27 t=19281
-jing cheng 	京城	c=1 d=0.427415 t=19281
+jing cheng 	京城	c=1 d=0.995012 t=19281
 jing dian 	經典	c=1 d=6.50488e-30 t=19281
 jing dong fang 	京東方	c=0 d=2.47354e-38 t=19281
 jing du 	精度	c=3 d=0.0939493 t=19281
@@ -1301,7 +1352,7 @@ ka dun 	卡頓	c=3 d=2.83512e-15 t=19281
 ka ju 	卡具	c=0 d=2.42456e-38 t=19281
 ka ju san duan lun fa kuai ji ai shang 	卡具三段論法會計愛上	c=1 d=2.43671e-37 t=19281
 ka si 	卡死	c=2 d=2.57632e-16 t=19281
-kai fa 	開發	c=4 d=0.201786 t=19281
+kai fa 	開發	c=4 d=0.365983 t=19281
 kai fa zhe 	開發者	c=2 d=4.25428e-05 t=19281
 kai fang 	開放	c=1 d=5.77226e-36 t=19281
 kai ji 	開機	c=1 d=7.63769e-07 t=19281
@@ -1312,10 +1363,11 @@ kai tou 	開頭	c=3 d=8.6652e-05 t=19281
 kai xiao 	開銷	c=1 d=0.00425723 t=19281
 kai xue 	開學	c=1 d=4.24474e-08 t=19281
 kai yuan 	開源	c=6 d=1.00456 t=19281
-kan 	看	c=11 d=0.790571 t=19281
+kan 	看	c=11 d=0.897315 t=19281
 kan bu dong 	看不懂	c=1 d=0.00927901 t=19281
 kan cheng 	看成	c=1 d=0.0731678 t=19281
 kan dao 	看到	c=3 d=0.941765 t=19281
+kan dong 	看懂	c=0 d=0.1 t=424
 kan kan 	看看	c=3 d=0.010255 t=19281
 kan lai 	看來	c=2 d=0.896354 t=19281
 kan le 	看了	c=1 d=0.00600598 t=19281
@@ -1343,6 +1395,7 @@ ke kuo zhan 	可擴展	c=1 d=3.82425e-16 t=19281
 ke kuo zhan xing 	可擴展性	c=1 d=1.7661e-15 t=19281
 ke long 	克隆	c=4 d=5.6173e-10 t=19281
 ke neng 	可能	c=31 d=0.211363 t=19281
+ke neng bao han 	可能包含	c=1 d=1 t=258
 ke shang 	課上	c=1 d=2.55511e-07 t=19281
 ke shi 	可使	c=3 d=3.64343e-05 t=19281
 ke shi 	可是	c=1 d=8.88129e-17 t=19281
@@ -1362,7 +1415,7 @@ ke zhan 	客棧	c=1 d=0.0792617 t=19281
 ke zhi 	剋制	c=2 d=3.06694e-08 t=19281
 ke zhi xing 	可執行	c=15 d=0.0498457 t=19281
 ken 	肯	c=1 d=0.0510474 t=19281
-ken ding 	肯定	c=5 d=0.000921047 t=19281
+ken ding 	肯定	c=5 d=0.00953692 t=19281
 ken en 	肯恩	c=1 d=3.91693e-33 t=19281
 keng wo 	坑我	c=1 d=9.42727e-13 t=19281
 kong 	控	c=2 d=3.98555e-14 t=19281
@@ -1382,18 +1435,19 @@ kong zhi zhong duan 	控制終端	c=1 d=6.05563e-41 t=19281
 kong zi fu 	空字符	c=1 d=4.63407e-11 t=19281
 kong zi fu chuan 	空字符串	c=2 d=1.62029e-10 t=19281
 ku 	哭	c=1 d=1.34771e-40 t=19281
-ku 	庫	c=8 d=0.0203434 t=19281
+ku 	庫	c=8 d=0.272532 t=19281
 ku bi 	苦逼	c=1 d=2.62747e-12 t=19281
 ku han shu 	库函数	c=3 d=3.84981e-40 t=19281
 kua 	跨	c=3 d=0.112554 t=19281
-kua ping tai 	跨平臺	c=1 d=0.0415857 t=19281
+kua ping tai 	跨平臺	c=1 d=0.895834 t=19281
+kua shi dai 	跨時代	c=1 d=1 t=580
 kuai 	塊	c=8 d=0.0168868 t=19281
 kuai 	快	c=4 d=3.49213e-06 t=19281
 kuai en ne ge 	快恩呢個	c=1 d=1.42589e-27 t=19281
 kuai ji 	會計	c=12 d=1.41796e-36 t=19281
 kuai ji ji lu 	會計記錄	c=1 d=1.83244e-37 t=19281
 kuai jie jian 	快捷鍵	c=5 d=0.000351541 t=19281
-kuai su 	快速	c=8 d=0.117841 t=19281
+kuai su 	快速	c=8 d=0.202909 t=19281
 kuai zhao 	快照	c=4 d=8.05562e-33 t=19281
 kuang 	框	c=1 d=0.0308074 t=19281
 kui ba 	魁拔	c=2 d=2.25826e-17 t=19281
@@ -1402,10 +1456,12 @@ kuo da 	擴大	c=6 d=0.000926115 t=19281
 kuo hao 	括號	c=2 d=0.00494232 t=19281
 kuo qi lai 	擴起來	c=2 d=9.38143e-31 t=19281
 kuo rong 	擴容	c=2 d=0.000411047 t=19281
-kuo zhan 	擴展	c=6 d=0.00101223 t=19281
+kuo zhan 	擴展	c=6 d=0.0587185 t=19281
 kuo zhan le 	擴展了	c=1 d=1.88369e-38 t=19281
 kuo zhan xing 	擴展性	c=2 d=1.82187e-15 t=19281
-la 	拉	c=2 d=9.85447e-05 t=19281
+kuo zhang 	擴張	c=1 d=1 t=26
+la 	拉	c=2 d=0.119433 t=19281
+la chu lai 	拉出來	c=1 d=1 t=156
 la ji 	垃圾	c=0 d=2.3521e-34 t=19281
 la jiao fen 	辣椒粉	c=0 d=2.48593e-38 t=19281
 la jiao fen de 	辣椒粉的	c=1 d=2.49839e-37 t=19281
@@ -1415,51 +1471,53 @@ la se 	垃圾	c=0 d=4.97193e-38 t=19281
 la se jie fang lu 	垃圾解放路	c=1 d=2.51092e-37 t=19281
 la se jing dong fang 	垃圾京東方	c=1 d=2.48593e-37 t=19281
 la shi 	拉屎	c=1 d=0.290835 t=19281
-lai 	來	c=28 d=0.0444524 t=19281
+lai 	來	c=28 d=0.796142 t=19281
 lai de 	來的	c=2 d=0.00332931 t=19281
 lai hui 	來回	c=1 d=9.50066e-16 t=19281
 lai shuo 	來說	c=14 d=4.6437e-06 t=19281
 lai zi 	來自	c=2 d=4.1235e-20 t=19281
 lan 	欄	c=1 d=0.000365224 t=19281
 lan 	爛	c=1 d=4.10998e-08 t=19281
-lan de 	懶得	c=1 d=0.00150344 t=19281
+lan de 	懶得	c=1 d=0.565525 t=19281
 lan de qu 	懶得去	c=1 d=3.39054e-41 t=19281
 lang fei 	浪費	c=1 d=7.17556e-08 t=19281
 lao shi 	老師	c=4 d=0.000462044 t=19281
 lao xian 	老仙	c=1 d=0.000320701 t=19281
-le 	了	c=178 d=1.47573 t=19281
+le 	了	c=178 d=3.4309 t=19281
 le guan 	樂觀	c=1 d=6.31586e-36 t=19281
 le shou ji fei 	了手機費	c=1 d=2.47354e-37 t=19281
-lei 	類	c=12 d=0.0217376 t=19281
+lei 	類	c=12 d=0.12307 t=19281
 lei bie 	類別	c=1 d=6.72377e-37 t=19281
 lei si 	類似	c=24 d=5.17006e-10 t=19281
 lei si de 	類似的	c=1 d=4.65715e-40 t=19281
 lei xing 	類型	c=21 d=0.10335 t=19281
-li 	裏	c=15 d=0.513805 t=19281
+li 	裏	c=15 d=0.946485 t=19281
 li bu kai 	離不開	c=1 d=2.21173e-15 t=19281
 li ji 	立即	c=5 d=1.30139e-11 t=19281
 li jie 	理解	c=4 d=0.0266491 t=19281
 li kai fu 	李開復	c=0 d=0.00672055 t=19281
 li lun 	理論	c=1 d=9.12192e-08 t=19281
-li ru 	例如	c=7 d=1.09869e-19 t=19281
+li ru 	例如	c=7 d=0.198891 t=19281
 li shi 	歷史	c=3 d=3.2773e-33 t=19281
 li xue yuan 	理學院	c=1 d=2.48044e-11 t=19281
 li yong 	利用	c=3 d=3.13863e-09 t=19281
 li zi 	例子	c=9 d=2.13923e-11 t=19281
 lia 	倆	c=3 d=7.50456e-06 t=19281
 lia ren 	倆人	c=1 d=0.000105163 t=19281
+lian 	聯	c=1 d=1 t=307
+lian 	連	c=1 d=1 t=479
 lian 	鏈	c=1 d=3.92439e-13 t=19281
 lian biao 	鏈表	c=4 d=2.99545e-05 t=19281
 lian dai 	連帶	c=1 d=7.05528e-15 t=19281
 lian ge 	連個	c=1 d=0.0502874 t=19281
 lian he 	聯合	c=1 d=2.75787e-23 t=19281
-lian jie 	連接	c=5 d=2.26774e-06 t=19281
-lian jie 	鏈接	c=8 d=6.07279e-05 t=19281
+lian jie 	連接	c=5 d=0.0617291 t=19281
+lian jie 	鏈接	c=8 d=0.0614212 t=19281
 lian jie qi 	鏈接器	c=1 d=1.56986e-41 t=19281
 lian xi 	聯繫	c=4 d=0.000254808 t=19281
-liang 	量	c=2 d=2.15533e-24 t=19281
+liang 	量	c=2 d=0.529935 t=19281
 liang ci 	兩次	c=1 d=0.272532 t=19281
-liang ge 	兩個	c=28 d=0.000110441 t=19281
+liang ge 	兩個	c=28 d=0.960789 t=19281
 liang hao 	良好	c=1 d=1.41464e-22 t=19281
 liang lan 	兩欄	c=1 d=4.37313e-35 t=19281
 liang lei 	兩類	c=1 d=1.06694e-27 t=19281
@@ -1502,9 +1560,10 @@ lun wen 	論文	c=2 d=0.512235 t=19281
 luo di ke 	羅迪克	c=0 d=2.43671e-38 t=19281
 luo di ke ji fa 	羅迪克激發	c=1 d=2.44892e-37 t=19281
 luo ji 	邏輯	c=9 d=0.356499 t=19281
+lv 	律	c=1 d=1.09851 t=8
 lv shun kou 	旅順口	c=0 d=2.44892e-38 t=19281
 lv shun kou da jia 	旅順口大家	c=1 d=2.4612e-37 t=19281
-ma 	嗎	c=70 d=1.64074 t=19281
+ma 	嗎	c=70 d=4.56839 t=19281
 ma 	媽	c=1 d=3.82164e-08 t=19281
 ma 	碼	c=1 d=0.00194986 t=19281
 ma bi 	麻痹	c=0 d=1.62833e-31 t=19281
@@ -1514,21 +1573,22 @@ mai le 	買了	c=1 d=4.50722e-08 t=19281
 man 	慢	c=1 d=2.56871e-40 t=19281
 man zu 	滿足	c=4 d=4.0273e-07 t=19281
 mao bing 	毛病	c=1 d=0.190139 t=19281
-me 	麼	c=0 d=2.09665e-05 t=19281
+me 	麼	c=0 d=0.0913931 t=19281
 mei 	每	c=1 d=7.16191e-15 t=19281
-mei 	沒	c=22 d=0.0303735 t=19281
+mei 	沒	c=22 d=0.0423162 t=19281
 mei ban fa 	沒辦法	c=1 d=2.0772e-12 t=19281
 mei ci 	每次	c=6 d=0.0638404 t=19281
 mei dang 	每當	c=1 d=1.00119e-14 t=19281
 mei deng lu 	沒登錄	c=1 d=0.000284437 t=19281
 mei fa 	沒法	c=4 d=2.26071e-08 t=19281
 mei fan ying 	沒反映	c=2 d=0.0113697 t=19281
-mei ge 	每個	c=16 d=0.0104874 t=19281
+mei ge 	每個	c=16 d=0.444858 t=19281
 mei ge liu 	每個流	c=1 d=7.07716e-22 t=19281
 mei ge zhou 	每個周	c=1 d=0.105399 t=19281
 mei guo 	美國	c=2 d=1.76306e-12 t=19281
 mei hua 	美化	c=1 d=0.802519 t=19281
 mei kan 	沒看	c=1 d=3.34244e-20 t=19281
+mei kan dong 	沒看懂	c=1 d=1 t=425
 mei mei 	每每	c=1 d=0.00644146 t=19281
 mei miao zhong 	每秒鐘	c=1 d=2.93898e-36 t=19281
 mei nian 	每年	c=1 d=0.268474 t=19281
@@ -1542,8 +1602,9 @@ mei yi ge 	每一個	c=1 d=1.3747e-38 t=19281
 mei yi tiao 	每一條	c=1 d=6.51285e-15 t=19281
 mei yi wei 	每一位	c=1 d=8.60387e-26 t=19281
 mei yi zhong 	每一種	c=1 d=1.71595e-29 t=19281
-mei yong 	沒用	c=1 d=0.00860854 t=19281
+mei yong 	沒用	c=1 d=0.83527 t=19281
 mei you 	沒有	c=41 d=0.659897 t=19281
+mei zhong 	每種	c=1 d=1 t=440
 mei zuo 	沒做	c=1 d=2.04628e-12 t=19281
 men 	們	c=2 d=4.24835e-18 t=19281
 men 	門	c=1 d=0.0773047 t=19281
@@ -1559,6 +1620,7 @@ miao shu fu 	描述符	c=5 d=4.29777e-07 t=19281
 miao shu le 	描述了	c=2 d=4.47926e-23 t=19281
 min zu 	民族	c=1 d=1.93974e-30 t=19281
 ming 	名	c=10 d=4.64909e-05 t=19281
+ming bai 	明白	c=1 d=1 t=142
 ming cheng 	名稱	c=2 d=4.77764e-17 t=19281
 ming hua 	名畫	c=1 d=0.786628 t=19281
 ming liang 	明亮	c=1 d=2.51228e-14 t=19281
@@ -1575,17 +1637,18 @@ ming nian 	明年	c=1 d=0.10383 t=19281
 ming tian 	明天	c=1 d=0.037068 t=19281
 ming xian 	明顯	c=1 d=1.05955e-15 t=19281
 ming xiang 	冥想	c=0 d=8.01537e-17 t=19281
-ming zi 	名字	c=5 d=2.80853e-14 t=19281
+ming zi 	名字	c=5 d=0.102284 t=19281
 mo 	模	c=1 d=0.000164106 t=19281
+mo di 	莫蒂	c=4 d=3.31399 t=564
 mo kuai 	模塊	c=2 d=4.48398e-06 t=19281
 mo ni 	模擬	c=4 d=5.01884e-06 t=19281
 mo ou zhong 	莫偶中	c=1 d=1.48408e-27 t=19281
 mo re 	莫熱	c=1 d=2.57895e-28 t=19281
 mo ren 	默認	c=36 d=2.00937e-09 t=19281
-mo shi 	模式	c=19 d=3.99868e-10 t=19281
+mo shi 	模式	c=19 d=0.0769192 t=19281
 mo shi 	漠視	c=1 d=6.39802e-41 t=19281
 mo suo 	摸索	c=1 d=0.000300519 t=19281
-mo wei 	末尾	c=2 d=1.5277e-13 t=19281
+mo wei 	末尾	c=2 d=0.194952 t=19281
 mo xing 	模型	c=1 d=6.32283e-40 t=19281
 mou ci 	某次	c=1 d=1.77405e-09 t=19281
 mou ge 	某個	c=31 d=1.96897e-07 t=19281
@@ -1598,20 +1661,22 @@ mu lu 	目錄	c=22 d=7.95744e-05 t=19281
 mu lu biao 	目錄表	c=1 d=1.34446e-41 t=19281
 mu lu liu 	目錄流	c=1 d=8.81089e-41 t=19281
 mu qian 	目前	c=6 d=3.60598e-12 t=19281
-na 	那	c=15 d=0.00224524 t=19281
+na 	那	c=15 d=0.00953692 t=19281
 na bu fen 	那部分	c=1 d=2.22623e-33 t=19281
 na ge 	哪個	c=5 d=0.831138 t=19281
 na ge 	那個	c=3 d=4.84689e-36 t=19281
 na ge shi hou 	那個時候	c=1 d=3.8794e-08 t=19281
+na ken ding 	那肯定	c=1 d=1 t=127
 na lai 	哪來	c=0 d=0.0021068 t=19281
 na lai de 	哪來的	c=1 d=0.0211736 t=19281
 na li 	哪裏	c=3 d=0.108282 t=19281
 na li 	那裏	c=1 d=0.166127 t=19281
-na me 	那麼	c=48 d=0.0143075 t=19281
+na me 	那麼	c=48 d=0.120032 t=19281
 na miao 	納秒	c=3 d=1.13906e-20 t=19281
 na ru 	納入	c=1 d=3.95697e-35 t=19281
 na wo 	那我	c=3 d=0.000610652 t=19281
-na xie 	哪些	c=11 d=0.0784731 t=19281
+na xie 	哪些	c=11 d=0.814647 t=19281
+na xie 	那些	c=1 d=1 t=554
 na yi ge 	哪一個	c=2 d=3.20049e-18 t=19281
 na yi ke 	那一刻	c=1 d=1.89777e-08 t=19281
 nan 	南	c=1 d=2.22104e-16 t=19281
@@ -1624,11 +1689,12 @@ nan guo 	難過	c=1 d=1.23536e-16 t=19281
 nan shou 	難受	c=7 d=7.5314e-09 t=19281
 nan yi 	難以	c=1 d=2.98553e-15 t=19281
 nao zhong 	鬧鐘	c=8 d=4.92577e-24 t=19281
-ne 	呢	c=9 d=0.00188483 t=19281
+ne 	呢	c=9 d=1.58334 t=19281
 ne ge 	呢個	c=0 d=2.98678e-28 t=19281
-nei 	內	c=8 d=0.0336632 t=19281
+nei 	內	c=8 d=0.0944202 t=19281
+nei bu 	內部	c=2 d=1.44264 t=257
 nei cu 	內粗	c=1 d=4.97093e-13 t=19281
-nei cun 	內存	c=11 d=0.000904426 t=19281
+nei cun 	內存	c=11 d=0.599589 t=19281
 nei cun ge 	內存個	c=1 d=1.59283e-06 t=19281
 nei cun kuai 	內存快	c=1 d=6.6512e-27 t=19281
 nei cun yin yong 	內存引用	c=1 d=3.62391e-30 t=19281
@@ -1644,6 +1710,7 @@ ni 	你	c=10 d=0.452335 t=19281
 ni 	尼	c=8 d=0.50146 t=19281
 ni ce 	你測	c=2 d=3.67559e-36 t=19281
 ni de 	你的	c=1 d=0.000257369 t=19281
+ni dou 	你都	c=2 d=1.99005 t=114
 ni hao 	你好	c=7 d=4.251e-35 t=19281
 ni jin 	你進	c=1 d=5.14887e-15 t=19281
 ni ma bi 	你麻痹	c=1 d=1.63649e-30 t=19281
@@ -1656,13 +1723,16 @@ ni ye ke yi 	你也可以	c=1 d=0.000261259 t=19281
 ni zai 	你在	c=1 d=1.35331e-30 t=19281
 ni zhe 	你這	c=1 d=0.0109985 t=19281
 ni zhe 	逆着	c=2 d=0.0110345 t=19281
+ni zhe shi 	你這是	c=1 d=1 t=208
 ni zhi 	你只	c=0 d=1.0527e-17 t=19281
 ni zhi dao 	你只到	c=1 d=1.05798e-16 t=19281
 ni zhi dao 	你直到	c=1 d=1.06328e-16 t=19281
-ni zhi dao 	你知道	c=1 d=1.06861e-16 t=19281
+ni zhi dao 	你知道	c=1 d=0.57695 t=19281
 nian chu 	念出	c=1 d=1.39984e-16 t=19281
+nian dai 	年代	c=1 d=1 t=3
 nie 	捏	c=1 d=0.0330412 t=19281
 nie ma 	捏嗎	c=1 d=6.49161e-06 t=19281
+niu 	牛	c=1 d=1 t=452
 nong 	弄	c=0 d=2.27824e-41 t=19281
 nong bu liao 	弄不了	c=1 d=2.28966e-40 t=19281
 nong hu 	農戶	c=0 d=9.97928e-07 t=19281
@@ -1673,10 +1743,12 @@ o yo 	哦喲	c=0 d=6.56578e-23 t=19281
 ou 	偶	c=0 d=2.28297e-36 t=19281
 ou lu 	歐陸	c=12 d=0.314719 t=19281
 ou niao 	鷗鳥	c=0 d=1.52694e-10 t=19281
+pa shen me 	怕什麼	c=1 d=1 t=97
 pai 	派	c=1 d=0.0387742 t=19281
 pai chu 	排除	c=2 d=3.66469e-07 t=19281
 pai dui 	排隊	c=8 d=4.43777e-20 t=19281
-pai xu 	排序	c=1 d=7.24867e-39 t=19281
+pai lie 	排列	c=1 d=1 t=132
+pai xu 	排序	c=1 d=0.0987662 t=19281
 pan 	盤	c=1 d=1.75485e-28 t=19281
 pan duan 	判斷	c=8 d=7.40538e-11 t=19281
 pao 	跑	c=1 d=0.00151098 t=19281
@@ -1684,7 +1756,7 @@ pao mian 	泡麪	c=1 d=7.17655e-39 t=19281
 pei 	陪	c=0 d=2.12573e-20 t=19281
 pei ni 	陪你	c=0 d=0.0460704 t=19281
 pei zhi 	配置	c=22 d=0.0011744 t=19281
-pei zhi 	配製	c=1 d=4.09012e-42 t=19281
+pei zhi 	配製	c=1 d=0.786628 t=19281
 pi chu li 	批處理	c=1 d=6.39932e-14 t=19281
 pi di 	匹敵	c=1 d=3.00049e-15 t=19281
 pi liang 	批量	c=1 d=3.98926e-13 t=19281
@@ -1701,7 +1773,7 @@ ping tai 	平臺	c=5 d=0.133816 t=19281
 ping xi 	評析	c=2 d=3.46723e-30 t=19281
 pu tong 	普通	c=8 d=0.00543443 t=19281
 qi 	其	c=58 d=0.00119878 t=19281
-qi 	器	c=3 d=2.09337e-15 t=19281
+qi 	器	c=3 d=1.06895 t=19281
 qi 	奇	c=2 d=0.193143 t=19281
 qi chuang 	起牀	c=3 d=7.6926e-08 t=19281
 qi dong 	啓動	c=17 d=9.91552e-06 t=19281
@@ -1737,6 +1809,7 @@ qian tao 	嵌套	c=8 d=0.000403635 t=19281
 qian tao 	潛逃	c=5 d=1.30788e-13 t=19281
 qian tao zhi xing 	嵌套執行	c=1 d=1.84263e-14 t=19281
 qian ti 	前提	c=1 d=6.09778e-05 t=19281
+qian tu 	前途	c=1 d=1 t=153
 qian yi 	遷移	c=2 d=1.27603e-35 t=19281
 qian yi tiao 	前一條	c=2 d=1.59535e-14 t=19281
 qian zai 	潛在	c=1 d=1.44031e-12 t=19281
@@ -1754,7 +1827,7 @@ qiang zhe 	搶着	c=1 d=2.58835e-12 t=19281
 qiang zhi 	強制	c=2 d=6.70548e-05 t=19281
 qiao li 	俏麗	c=0 d=6.94906e-14 t=19281
 qiao li wa 	俏麗哇	c=1 d=6.98389e-13 t=19281
-qie 	且	c=15 d=0.000200645 t=19281
+qie 	且	c=15 d=0.265803 t=19281
 qie duan 	切斷	c=1 d=1.76671e-19 t=19281
 qie huan 	切換	c=16 d=0.118871 t=19281
 qing 	請	c=4 d=0.225382 t=19281
@@ -1776,7 +1849,7 @@ qu 	區	c=7 d=4.00831e-09 t=19281
 qu 	去	c=3 d=0.00708341 t=19281
 qu 	取	c=5 d=1.51753e-16 t=19281
 qu bei 	曲背	c=1 d=1.55403e-10 t=19281
-qu bie 	區別	c=7 d=2.8093e-05 t=19281
+qu bie 	區別	c=7 d=0.748264 t=19281
 qu chu 	去除	c=1 d=6.25534e-11 t=19281
 qu chu 	取出	c=1 d=1.01525e-31 t=19281
 qu dai 	取代	c=2 d=9.11768e-24 t=19281
@@ -1803,6 +1876,8 @@ quan tui 	勸退	c=0 d=1.06054e-16 t=19281
 quan tui wo 	勸退我	c=1 d=1.06585e-15 t=19281
 quan xian 	權限	c=11 d=6.38062e-09 t=19281
 que 	卻	c=1 d=0.147342 t=19281
+que bao 	確保	c=1 d=1 t=240
+que dian 	缺點	c=1 d=1 t=558
 que ding 	確定	c=7 d=3.15702e-25 t=19281
 que le 	缺了	c=1 d=0.0547488 t=19281
 que sheng 	缺省	c=1 d=3.84865e-32 t=19281
@@ -1816,6 +1891,7 @@ rang na ge 	讓哪個	c=1 d=3.90682e-32 t=19281
 rang ren 	讓人	c=3 d=8.39152e-15 t=19281
 rang wo 	讓我	c=1 d=0.529935 t=19281
 re dian 	熱點	c=3 d=4.91812e-05 t=19281
+re du 	熱度	c=1 d=1 t=527
 ren 	人	c=6 d=0.00164522 t=19281
 ren he 	任何	c=8 d=0.00198243 t=19281
 ren kou 	人口	c=1 d=0.0139818 t=19281
@@ -1824,7 +1900,7 @@ ren ren 	人人	c=3 d=1.40653e-05 t=19281
 ren wei 	認爲	c=3 d=5.47101e-16 t=19281
 ren wu 	任務	c=3 d=1.94837e-05 t=19281
 ren yi 	任一	c=8 d=6.99501e-25 t=19281
-ren yi 	任意	c=1 d=4.21038e-30 t=19281
+ren yi 	任意	c=1 d=0.186374 t=19281
 ren zhen 	認真	c=2 d=6.96068e-08 t=19281
 reng 	仍	c=1 d=1.24455e-16 t=19281
 reng ran 	仍然	c=5 d=2.01512e-08 t=19281
@@ -1833,13 +1909,13 @@ ri li 	日曆	c=2 d=1.1151e-17 t=19281
 ri qi 	日期	c=1 d=9.93119e-08 t=19281
 rong 	榮	c=0 d=1.50395e-08 t=19281
 rong lai gai nian 	榮來概念	c=1 d=1.51149e-07 t=19281
-rong liang 	容量	c=5 d=0.000474511 t=19281
+rong liang 	容量	c=5 d=0.0584257 t=19281
 rong na 	容納	c=2 d=1.46682e-07 t=19281
-rong qi 	容器	c=1 d=0.000197455 t=19281
+rong qi 	容器	c=1 d=0.271173 t=19281
 rong yi 	容易	c=1 d=1.97113e-13 t=19281
-ru 	如	c=7 d=7.9679e-05 t=19281
-ru guo 	如果	c=178 d=0.133206 t=19281
-ru he 	如何	c=12 d=0.00112164 t=19281
+ru 	如	c=7 d=0.377192 t=19281
+ru guo 	如果	c=178 d=0.138761 t=19281
+ru he 	如何	c=12 d=2.5794 t=19281
 ru kou 	入口	c=1 d=7.77187e-06 t=19281
 ru shui 	入睡	c=0 d=1.28577e-17 t=19281
 ru tong 	如同	c=1 d=2.8272e-21 t=19281
@@ -1847,6 +1923,8 @@ ru xia 	如下	c=4 d=3.56074e-29 t=19281
 ruan cheng 	軟成	c=1 d=2.90173e-33 t=19281
 ruan jian 	軟件	c=13 d=0.786485 t=19281
 ruan jian bao 	軟件包	c=2 d=5.71598e-09 t=19281
+rui ke 	瑞克	c=7 d=5.40409 t=562
+rui ke he 	瑞克和	c=1 d=1 t=563
 ruo 	弱	c=1 d=0.0176857 t=19281
 ruo 	若	c=23 d=9.97938e-06 t=19281
 ruo gan ge 	若干個	c=1 d=8.55222e-14 t=19281
@@ -1858,7 +1936,7 @@ sao miao 	掃描	c=1 d=1.09284e-15 t=19281
 se 	色	c=0 d=4.61646e-26 t=19281
 se cai 	色彩	c=1 d=7.19291e-07 t=19281
 se cong di song 	色從遞送	c=1 d=4.6396e-25 t=19281
-sha 	啥	c=7 d=0.0930035 t=19281
+sha 	啥	c=7 d=0.543351 t=19281
 sha le 	傻了	c=0 d=2.56871e-41 t=19281
 sha si 	殺死	c=1 d=2.39798e-25 t=19281
 shan 	刪	c=2 d=1.09831e-15 t=19281
@@ -1888,31 +1966,38 @@ shao xie 	燒寫	c=4 d=2.00935 t=19281
 she bei 	設備	c=15 d=0.00557201 t=19281
 she hui 	社會	c=1 d=1.90133e-30 t=19281
 she ji 	涉及	c=4 d=8.46865e-16 t=19281
-she ji 	設計	c=5 d=0.0702988 t=19281
+she ji 	設計	c=5 d=0.127454 t=19281
 she ji ying yong 	設計應用	c=1 d=5.57562e-40 t=19281
+she me 	什麼	c=0 d=0.1 t=578
+she me me 	什麼麼	c=1 d=1 t=579
 she qu 	社區	c=2 d=0.0213864 t=19281
 she you 	舍友	c=1 d=4.49482e-05 t=19281
-she zhi 	設置	c=80 d=0.0813134 t=19281
+she zhi 	設置	c=80 d=1.53082 t=19281
 she zhi yong hu 	設置用戶	c=1 d=1.58537e-39 t=19281
 shen 	神	c=1 d=3.87124e-42 t=19281
-shen me 	什麼	c=22 d=0.0402868 t=19281
+shen me 	什麼	c=22 d=1.07813 t=19281
+shen me shu 	什麼書	c=1 d=1 t=102
 shen qing 	申請	c=4 d=1.24371e-07 t=19281
 shen ti 	身體	c=2 d=2.98488e-08 t=19281
 shen zhi 	甚至	c=3 d=5.12848e-08 t=19281
 sheng 	剩	c=1 d=0.0194482 t=19281
 sheng cheng 	生成	c=12 d=0.00535734 t=19281
 sheng cheng 	聲稱	c=1 d=2.03393e-29 t=19281
+sheng chi 	生吃	c=1 d=1 t=161
 sheng dan jie 	聖誕節	c=0 d=0.00672055 t=19281
 sheng huo 	生活	c=1 d=1.03116e-08 t=19281
 sheng lve 	省略	c=2 d=3.07697e-17 t=19281
 sheng ming 	生命	c=1 d=0.00305798 t=19281
+sheng ming 	聲明	c=1 d=1 t=205
 sheng ming zhou qi 	生命週期	c=1 d=6.21336e-20 t=19281
+sheng tai 	生態	c=1 d=1 t=158
 sheng xiao 	生效	c=3 d=5.5633e-14 t=19281
 sheng xin 	省心	c=2 d=4.40582e-15 t=19281
 sheng xu 	升序	c=1 d=7.87164e-09 t=19281
 sheng yu 	剩餘	c=3 d=0.00779128 t=19281
 shi 	事	c=2 d=1.75541e-08 t=19281
 shi 	使	c=6 d=4.29943e-18 t=19281
+shi 	式	c=1 d=1 t=24
 shi 	是	c=369 d=6.71361 t=19281
 shi 	時	c=163 d=0.263937 t=19281
 shi 	示	c=2 d=5.6991e-33 t=19281
@@ -1920,16 +2005,17 @@ shi ba 	是吧	c=1 d=2.35866e-07 t=19281
 shi bai 	失敗	c=14 d=7.31409e-05 t=19281
 shi bie 	識別	c=1 d=1.20712e-38 t=19281
 shi bu shi 	是不是	c=3 d=0.423162 t=19281
+shi dai 	時代	c=0 d=0.1 t=579
 shi dang 	適當	c=2 d=1.51618e-14 t=19281
 shi de 	使得	c=2 d=9.62498e-40 t=19281
 shi de 	是的	c=1 d=0.00164502 t=19281
 shi duo shao 	是多少	c=1 d=0.00193045 t=19281
 shi fang 	釋放	c=5 d=0.300305 t=19281
 shi fo 	石佛	c=2 d=7.05168e-09 t=19281
-shi fou 	是否	c=21 d=4.75502e-08 t=19281
+shi fou 	是否	c=21 d=0.205975 t=19281
 shi fu 	師傅	c=1 d=5.37652e-24 t=19281
 shi guo 	試過	c=1 d=1.00882e-15 t=19281
-shi he 	適合	c=1 d=2.57588e-14 t=19281
+shi he 	適合	c=1 d=0.0753961 t=19281
 shi hua 	實話	c=1 d=2.43445e-06 t=19281
 shi hua shuo 	實話說	c=1 d=2.43008e-05 t=19281
 shi hua shuo 	是話說	c=1 d=1.57725e-08 t=19281
@@ -1950,7 +2036,7 @@ shi jie 	世界	c=1 d=0.782705 t=19281
 shi jin zhi 	十進制	c=1 d=0.0018734 t=19281
 shi ke 	時刻	c=3 d=1.82901e-15 t=19281
 shi le 	試了	c=3 d=0.745035 t=19281
-shi li 	實例	c=1 d=6.53749e-30 t=19281
+shi li 	實例	c=1 d=0.137381 t=19281
 shi li 	實力	c=1 d=0.408608 t=19281
 shi mian 	失眠	c=1 d=2.27359e-16 t=19281
 shi mian shang 	市面上	c=1 d=2.28499e-16 t=19281
@@ -1965,7 +2051,7 @@ shi qing 	事情	c=1 d=5.9738e-28 t=19281
 shi sha 	是啥	c=3 d=2.50409e-05 t=19281
 shi shan 	屎山	c=1 d=0.628135 t=19281
 shi shei 	是誰	c=2 d=7.16069e-13 t=19281
-shi shen me 	是什麼	c=4 d=0.00158052 t=19281
+shi shen me 	是什麼	c=4 d=0.47163 t=19281
 shi shi 	實施	c=0 d=6.52505e-38 t=19281
 shi shi 	實時	c=2 d=4.99244e-06 t=19281
 shi shi jiao yi 	實時交易	c=1 d=5.01747e-05 t=19281
@@ -1976,9 +2062,9 @@ shi shi xin hao 	實時信號	c=1 d=2.75262e-30 t=19281
 shi tu 	試圖	c=6 d=2.09197e-17 t=19281
 shi wei 	視爲	c=2 d=0.000122794 t=19281
 shi xi an 	時西安	c=1 d=1.12008e-40 t=19281
-shi xian 	實現	c=27 d=0.597012 t=19281
+shi xian 	實現	c=27 d=1.15267 t=19281
 shi xian le 	實現了	c=1 d=2.37162e-42 t=19281
-shi yan 	實驗	c=2 d=0.0380064 t=19281
+shi yan 	實驗	c=2 d=0.23457 t=19281
 shi yan shi 	實驗室	c=0 d=1.8027e-22 t=19281
 shi yan shi te mai 	實驗室特賣	c=1 d=1.81174e-21 t=19281
 shi yi 	是一	c=0 d=1.00601e-42 t=19281
@@ -1989,6 +2075,7 @@ shi ying shi ying 	適應適應	c=1 d=0.597501 t=19281
 shi yong 	使用	c=157 d=0.210955 t=19281
 shi yong 	適用	c=1 d=1.58569e-12 t=19281
 shi yong le 	使用了	c=1 d=6.13461e-17 t=19281
+shi zai 	實在	c=1 d=1 t=179
 shi zai shi 	實在是	c=1 d=2.9763e-08 t=19281
 shi zhan 	實戰	c=1 d=0.000347412 t=19281
 shi zhi 	是指	c=1 d=3.51501e-24 t=19281
@@ -2013,15 +2100,16 @@ shu 	樹	c=5 d=0.00727638 t=19281
 shu bei 	數倍	c=1 d=2.59549e-15 t=19281
 shu biao 	鼠標	c=1 d=2.60753e-40 t=19281
 shu chu 	輸出	c=11 d=0.0263839 t=19281
-shu dian 	數電	c=1 d=0.0753961 t=19281
+shu dian 	數電	c=3 d=0.337299 t=19281
 shu fu 	舒服	c=2 d=1.89416e-15 t=19281
 shu jia 	暑假	c=1 d=3.63526e-08 t=19281
-shu ju 	數據	c=25 d=0.220687 t=19281
+shu ju 	數據	c=25 d=0.710585 t=19281
 shu ju chuan shu 	數據傳輸	c=1 d=2.9757e-35 t=19281
 shu ju duan 	數據段	c=1 d=9.66561e-42 t=19281
 shu ju jie gou 	數據結構	c=5 d=3.97009e-07 t=19281
 shu ju ku 	數據庫	c=1 d=1.9559e-10 t=19281
 shu ju lei xing 	數據類型	c=1 d=1.19368e-24 t=19281
+shu ju xuan ze qi 	數據選擇器	c=1 d=1 t=594
 shu ma 	數碼	c=1 d=0.00863914 t=19281
 shu ma guan 	數碼管	c=2 d=0.123473 t=19281
 shu ru 	輸入	c=9 d=6.71679e-18 t=19281
@@ -2032,15 +2120,15 @@ shu xing 	屬性	c=4 d=0.811006 t=19281
 shu yu 	屬於	c=4 d=3.56692e-20 t=19281
 shu yu 	術語	c=3 d=4.41722e-06 t=19281
 shu zhi 	數值	c=1 d=9.19294e-11 t=19281
-shu zi 	數字	c=3 d=0.00467069 t=19281
-shu zu 	數組	c=10 d=0.00739438 t=19281
+shu zi 	數字	c=3 d=0.0536647 t=19281
+shu zu 	數組	c=10 d=0.373943 t=19281
 shua ti 	刷題	c=1 d=7.06873e-08 t=19281
 shuang 	雙	c=1 d=0.216536 t=19281
 shuang duan 	雙端	c=1 d=4.95556e-06 t=19281
 shuang si 	爽死	c=1 d=0.000510561 t=19281
 shui ping 	水平	c=2 d=0.102119 t=19281
 shun 	順	c=0 d=1.97449e-34 t=19281
-shun xu 	順序	c=6 d=3.44131e-10 t=19281
+shun xu 	順序	c=6 d=0.0875977 t=19281
 shun xu biao 	順序表	c=1 d=2.00433e-33 t=19281
 shun xu biao 	順虚表	c=1 d=1.98438e-33 t=19281
 shuo 	說	c=13 d=0.000530812 t=19281
@@ -2049,9 +2137,11 @@ shuo le 	說了	c=0 d=2.04482e-34 t=19281
 shuo ming 	說明	c=12 d=1.31071e-17 t=19281
 shuo ming le 	說明了	c=2 d=2.23472e-19 t=19281
 si 	絲	c=1 d=0.0987662 t=19281
+si chu 	四處	c=1 d=1 t=53
 si hu 	似乎	c=1 d=5.05653e-08 t=19281
 si huo 	死活	c=1 d=2.44343e-40 t=19281
 si song 	死送	c=1 d=2.79955e-23 t=19281
+si xuan yi 	四選一	c=1 d=1 t=589
 song dao 	送到	c=1 d=0.000267872 t=19281
 song de 	送的	c=1 d=4.29763e-36 t=19281
 sou dao 	搜到	c=0 d=0.000869506 t=19281
@@ -2059,7 +2149,7 @@ sou suo 	搜索	c=4 d=1.09257e-11 t=19281
 su 	素	c=0 d=6.56578e-23 t=19281
 su du 	速度	c=5 d=2.09753 t=19281
 su o yo 	素哦喲	c=1 d=6.5987e-22 t=19281
-su she 	宿舍	c=2 d=4.56439e-08 t=19281
+su she 	宿舍	c=2 d=0.873716 t=19281
 su shu 	素數	c=4 d=0.000585452 t=19281
 suan 	算	c=2 d=3.55347e-05 t=19281
 suan fa 	算法	c=8 d=2.29807e-06 t=19281
@@ -2102,13 +2192,15 @@ ta de 	它的	c=4 d=1.39286e-32 t=19281
 ta ke yi 	它可以	c=1 d=0.000231716 t=19281
 ta kong 	踏空	c=1 d=0.00023056 t=19281
 ta me 	它麼	c=1 d=9.25161e-27 t=19281
-ta men 	他們	c=1 d=0.000107825 t=19281
+ta men 	他們	c=1 d=0.344728 t=19281
 ta men 	它們	c=35 d=0.150023 t=19281
 tai 	太	c=8 d=1.03899 t=19281
 tai 	態	c=1 d=4.19044e-24 t=19281
+tai chang 	太長	c=1 d=1 t=181
 tai chou 	太醜	c=1 d=0.000372602 t=19281
 tai da 	太大	c=2 d=3.06476e-29 t=19281
 tai duo 	太多	c=1 d=3.5909e-40 t=19281
+tai jin 	太近	c=1 d=1 t=320
 tai jiu 	太久	c=2 d=6.64819e-08 t=19281
 tai la ji 	太垃圾	c=1 d=2.36389e-33 t=19281
 tai leng 	太冷	c=0 d=0.000148848 t=19281
@@ -2120,7 +2212,7 @@ tai qiang 	太強	c=0 d=3.96721e-37 t=19281
 tai qiang le 	太強了	c=1 d=3.9871e-36 t=19281
 tai teng le 	太疼了	c=1 d=2.99122e-08 t=19281
 tai xiao 	太小	c=4 d=0.0368832 t=19281
-tang 	糖	c=2 d=0.0739031 t=19281
+tang 	糖	c=2 d=0.108067 t=19281
 tang zhe 	躺着	c=2 d=6.93432e-08 t=19281
 tao bao 	淘寶	c=1 d=9.65934e-05 t=19281
 te ding 	特定	c=10 d=9.56944e-05 t=19281
@@ -2137,6 +2229,7 @@ te zheng 	特徵	c=3 d=4.06777e-07 t=19281
 teng 	疼	c=1 d=2.21595e-08 t=19281
 teng xun 	騰訊	c=1 d=0.0605068 t=19281
 teng xun yun 	騰訊雲	c=1 d=4.79735e-36 t=19281
+ti 	提	c=1 d=1 t=195
 ti 	題	c=3 d=0.000235974 t=19281
 ti dai 	替代	c=5 d=3.87874e-06 t=19281
 ti dui 	梯隊	c=0 d=4.33344e-17 t=19281
@@ -2144,7 +2237,7 @@ ti gan 	題幹	c=1 d=0.000120363 t=19281
 ti gao 	提高	c=2 d=1.71859e-36 t=19281
 ti gong 	提供	c=12 d=5.95243e-06 t=19281
 ti gong le 	提供了	c=6 d=3.47046e-21 t=19281
-ti huan 	替換	c=9 d=3.96551e-11 t=19281
+ti huan 	替換	c=9 d=0.0858632 t=19281
 ti hui 	體會	c=1 d=2.03676e-16 t=19281
 ti jiao 	提交	c=36 d=9.25677e-09 t=19281
 ti jiao 	體校	c=1 d=6.99698e-35 t=19281
@@ -2172,13 +2265,14 @@ tiao zheng 	調整	c=6 d=0.034562 t=19281
 tiao zheng le 	調整了	c=1 d=6.52526e-08 t=19281
 tiao zhi jie tiao qi 	調制解調器	c=1 d=5.07394e-19 t=19281
 tiao zhuan 	跳轉	c=2 d=2.23206e-05 t=19281
+tie de 	貼的	c=1 d=1 t=319
 tie ze 	鐵則	c=1 d=9.78334e-08 t=19281
 tie zi 	帖子	c=1 d=9.83238e-08 t=19281
 ting 	聽	c=3 d=1.49756e-07 t=19281
 ting duo 	挺多	c=0 d=8.35839e-10 t=19281
 ting duo de 	挺多的	c=1 d=8.40029e-09 t=19281
 ting guo 	聽過	c=1 d=8.3786e-08 t=19281
-ting hao 	挺好	c=0 d=0.0323033 t=19281
+ting hao 	挺好	c=1 d=0.0675424 t=19281
 ting hao kan 	聽好看	c=1 d=3.41461e-36 t=19281
 ting li 	聽力	c=1 d=0.0411719 t=19281
 ting you 	挺有	c=1 d=0.00442715 t=19281
@@ -2188,7 +2282,7 @@ ting zhi 	停止	c=1 d=5.85053e-18 t=19281
 tong 	同	c=1 d=9.0607e-17 t=19281
 tong 	通	c=3 d=2.8131e-21 t=19281
 tong chang 	通常	c=18 d=6.48085e-06 t=19281
-tong guo 	通過	c=16 d=1.52878e-05 t=19281
+tong guo 	通過	c=16 d=0.272778 t=19281
 tong ji 	統計	c=6 d=1.68581 t=19281
 tong ku 	痛苦	c=3 d=1.51548e-08 t=19281
 tong ming 	同名	c=3 d=0.00425356 t=19281
@@ -2209,7 +2303,7 @@ tong yi yu 	同義語	c=1 d=6.8491e-19 t=19281
 tong yong 	通用	c=6 d=5.49511e-06 t=19281
 tong yong xing 	通用性	c=1 d=0.00082099 t=19281
 tong zhi 	通知	c=13 d=7.30269e-18 t=19281
-tou wen jian 	頭文件	c=2 d=5.44585e-29 t=19281
+tou wen jian 	頭文件	c=2 d=0.0761538 t=19281
 tou xiang 	頭像	c=3 d=1.19317e-16 t=19281
 tu 	圖	c=3 d=1.531e-06 t=19281
 tu chuang 	圖牀	c=3 d=6.01887e-20 t=19281
@@ -2221,7 +2315,7 @@ tu xing 	圖形	c=2 d=4.67905e-07 t=19281
 tui 	推	c=2 d=4.36622e-07 t=19281
 tui chu 	退出	c=5 d=0.112478 t=19281
 tui chu 	退除	c=1 d=9.67909e-29 t=19281
-tui jian 	推薦	c=2 d=1.319e-23 t=19281
+tui jian 	推薦	c=2 d=0.537117 t=19281
 tui ru 	推入	c=1 d=2.15566e-07 t=19281
 tui song 	推送	c=14 d=1.60308e-09 t=19281
 tuo guan 	託管	c=2 d=1.22096e-35 t=19281
@@ -2245,7 +2339,7 @@ wan quan 	完全	c=7 d=3.87567e-07 t=19281
 wan shan 	完善	c=1 d=1.24926e-30 t=19281
 wan shang 	晚上	c=2 d=2.76886e-11 t=19281
 wan yao 	彎腰	c=1 d=2.27205e-08 t=19281
-wan yi 	玩意	c=2 d=0.392637 t=19281
+wan yi 	玩意	c=2 d=0.416862 t=19281
 wan yi 	萬一	c=0 d=5.17027e-06 t=19281
 wan zheng 	完整	c=2 d=1.87676e-31 t=19281
 wang fei 	網飛	c=1 d=0.647265 t=19281
@@ -2260,7 +2354,7 @@ wei 	位	c=16 d=0.411873 t=19281
 wei 	僞	c=0 d=1.67966e-18 t=19281
 wei 	微	c=6 d=1.53288e-40 t=19281
 wei 	未	c=9 d=5.37195e-14 t=19281
-wei 	爲	c=104 d=0.0264167 t=19281
+wei 	爲	c=104 d=0.513677 t=19281
 wei bu 	尾部	c=2 d=2.86663e-07 t=19281
 wei cheng xu fu zhi 	爲程序複製	c=1 d=4.03897e-41 t=19281
 wei chu li 	未處理	c=1 d=6.62592e-41 t=19281
@@ -2269,7 +2363,7 @@ wei ding 	未定	c=0 d=1.27121e-30 t=19281
 wei ding yi 	未定義	c=1 d=1.27758e-29 t=19281
 wei ding yi 	爲定義	c=1 d=1.25228e-29 t=19281
 wei gen zong 	未跟蹤	c=4 d=1.24335e-31 t=19281
-wei hu 	維護	c=6 d=1.50974e-14 t=19281
+wei hu 	維護	c=6 d=0.465334 t=19281
 wei jia ru 	未加入	c=1 d=4.88163e-35 t=19281
 wei jue 	未決	c=5 d=1.30764e-23 t=19281
 wei le 	爲了	c=8 d=6.30701e-16 t=19281
@@ -2277,14 +2371,14 @@ wei li 	威力	c=2 d=5.54516e-05 t=19281
 wei lie 	位列	c=1 d=4.39893e-16 t=19281
 wei mu biao 	僞目標	c=9 d=1.91465e-16 t=19281
 wei ruan 	微軟	c=1 d=0.188247 t=19281
-wei sha 	爲啥	c=3 d=0.160414 t=19281
-wei shen me 	爲什麼	c=3 d=0.224374 t=19281
+wei sha 	爲啥	c=3 d=0.499074 t=19281
+wei shen me 	爲什麼	c=5 d=2.56578 t=19281
 wei shu 	位數	c=2 d=1.17668e-24 t=19281
 wei tiao 	微調	c=1 d=2.0189e-30 t=19281
 wei yi 	唯一	c=8 d=0.0020396 t=19281
 wei yu 	位於	c=3 d=8.66053e-15 t=19281
-wei zhi 	位置	c=11 d=0.180759 t=19281
-wei zhi 	爲止	c=1 d=6.69728e-20 t=19281
+wei zhi 	位置	c=11 d=0.355226 t=19281
+wei zhi 	爲止	c=2 d=0.540764 t=19281
 wei zhong duan 	僞終端	c=1 d=3.28418e-19 t=19281
 wen 	問	c=2 d=1.0527e-16 t=19281
 wen ben 	文本	c=3 d=2.57632e-17 t=19281
@@ -2297,8 +2391,9 @@ wen jian ai 	文件愛	c=1 d=1.1951e-38 t=19281
 wen jian jia 	文件夾	c=1 d=2.67909e-35 t=19281
 wen jian kuai zhao 	文件快照	c=1 d=1.33684e-33 t=19281
 wen jian miao shu fu 	文件描述符	c=4 d=1.85991e-40 t=19281
-wen jian ming 	文件名	c=1 d=1.09526e-41 t=19281
+wen jian ming 	文件名	c=1 d=0.123687 t=19281
 wen jian suo 	文件锁	c=1 d=6.52727e-41 t=19281
+wen le 	問了	c=1 d=1 t=113
 wen ti 	問題	c=36 d=0.430816 t=19281
 wen zhang 	文章	c=7 d=5.24777e-12 t=19281
 wen zi 	文字	c=3 d=7.87662e-16 t=19281
@@ -2313,7 +2408,7 @@ wo dian nao 	我電腦	c=1 d=2.27831e-11 t=19281
 wo dou 	我都	c=1 d=1.97073e-40 t=19281
 wo dou neng 	我都能	c=1 d=4.45313e-13 t=19281
 wo fa xian 	我發現	c=1 d=5.03131e-08 t=19281
-wo gai 	我該	c=1 d=1.36361e-31 t=19281
+wo gai 	我該	c=1 d=0.151829 t=19281
 wo gu ji 	我估計	c=1 d=0.000542133 t=19281
 wo hai 	我還	c=2 d=0.694287 t=19281
 wo hai shi 	我還是	c=1 d=3.39874e-40 t=19281
@@ -2325,6 +2420,7 @@ wo hui 	我會	c=1 d=1.00758e-30 t=19281
 wo ji 	沃瘠	c=1 d=0.509156 t=19281
 wo jiu 	我就	c=2 d=1.45819 t=19281
 wo jue de 	我覺得	c=3 d=0.0602652 t=19281
+wo kan dao 	我看到	c=1 d=1 t=395
 wo ke 	我可	c=2 d=9.03116e-08 t=19281
 wo ma 	我媽	c=1 d=3.89885e-08 t=19281
 wo men 	我們	c=1 d=9.90387e-05 t=19281
@@ -2345,15 +2441,17 @@ wo yi 	我一	c=1 d=0.0120342 t=19281
 wo yi wei 	我以爲	c=1 d=0.168638 t=19281
 wo yi zhi 	我一只	c=1 d=6.62028e-31 t=19281
 wo yong 	我用	c=8 d=0.675612 t=19281
+wo za 	我咋	c=1 d=1 t=424
 wo zai 	我在	c=2 d=3.08231e-08 t=19281
 wo zhe 	我這	c=5 d=0.000317514 t=19281
 wo zhen 	我真	c=1 d=7.53936e-31 t=19281
 wo zheng 	我正	c=0 d=7.30286e-10 t=19281
 wo zheng zai 	我正在	c=1 d=7.33946e-09 t=19281
+wo zhi dao 	我知道	c=1 d=1 t=216
 wo zhi jie 	我直接	c=2 d=2.80975e-07 t=19281
 wu 	無	c=1 d=0.00037506 t=19281
 wu cha 	誤差	c=1 d=0.0124629 t=19281
-wu fa 	無法	c=14 d=0.101219 t=19281
+wu fa 	無法	c=14 d=0.501576 t=19281
 wu fan 	吳凡	c=2 d=2.44268e-07 t=19281
 wu fu hao 	無符號	c=1 d=3.34653e-05 t=19281
 wu guan 	無關	c=1 d=6.12086e-20 t=19281
@@ -2424,10 +2522,10 @@ xian shi qi 	顯示器	c=2 d=3.00604e-06 t=19281
 xian xiang 	現象	c=1 d=1.02919e-15 t=19281
 xian you 	現有	c=3 d=4.69037e-06 t=19281
 xian yun xing 	先運行	c=2 d=1.33865e-41 t=19281
-xian zai 	現在	c=27 d=0.0269475 t=19281
-xian zhi 	限制	c=8 d=1.36579e-20 t=19281
+xian zai 	現在	c=27 d=0.370057 t=19281
+xian zhi 	限制	c=8 d=0.440785 t=19281
 xiang 	像	c=1 d=1.20691e-36 t=19281
-xiang 	向	c=19 d=0.00168699 t=19281
+xiang 	向	c=19 d=0.153355 t=19281
 xiang 	想	c=9 d=0.871149 t=19281
 xiang 	相	c=1 d=1.08421e-10 t=19281
 xiang 	象	c=1 d=1.59581e-28 t=19281
@@ -2440,7 +2538,7 @@ xiang fan 	相反	c=1 d=6.88577e-23 t=19281
 xiang guan 	相關	c=7 d=7.36945e-26 t=19281
 xiang jia 	相加	c=1 d=3.38017e-05 t=19281
 xiang lian 	相連	c=1 d=8.59189e-39 t=19281
-xiang mu 	項目	c=9 d=1.57217e-07 t=19281
+xiang mu 	項目	c=9 d=0.117655 t=19281
 xiang shang 	向上	c=1 d=0.00259284 t=19281
 xiang tong 	相同	c=5 d=7.14828e-22 t=19281
 xiang wai 	向外	c=1 d=1.78355e-13 t=19281
@@ -2451,30 +2549,35 @@ xiang xin 	相信	c=1 d=2.17126e-33 t=19281
 xiang yao 	想要	c=1 d=2.88873e-39 t=19281
 xiang ying 	相應	c=3 d=1.03506e-23 t=19281
 xiang ying 	響應	c=1 d=5.99028e-31 t=19281
-xiao 	小	c=3 d=2.03781e-05 t=19281
+xiao 	小	c=3 d=0.0229925 t=19281
 xiao 	效	c=0 d=1.93171e-41 t=19281
 xiao 	消	c=1 d=0.113042 t=19281
 xiao bai 	小白	c=1 d=1.8375e-40 t=19281
+xiao cai 	小菜	c=1 d=1 t=64
 xiao ce 	小冊	c=1 d=0.000290183 t=19281
+xiao duan 	小端	c=1 d=1 t=107
+xiao fu chuan 	小符串	c=1 d=1 t=303
 xiao guo 	效果	c=12 d=2.22448e-12 t=19281
 xiao le 	笑了	c=1 d=1.03703e-16 t=19281
+xiao lv 	效率	c=1 d=1 t=412
 xiao qu 	校區	c=1 d=0.000271921 t=19281
 xiao shi 	小時	c=4 d=2.53624e-08 t=19281
 xiao si 	笑死	c=1 d=3.38938e-37 t=19281
 xiao yu 	小於	c=2 d=7.94804e-05 t=19281
 xiao yuan wang 	校園網	c=1 d=5.02858e-31 t=19281
-xie 	寫	c=31 d=0.133323 t=19281
+xie 	寫	c=31 d=0.913931 t=19281
 xie cao zuo 	寫操作	c=1 d=1.41878e-27 t=19281
 xie chu lai 	寫出來	c=1 d=6.03711e-05 t=19281
 xie dai ma 	寫代碼	c=2 d=5.68554e-05 t=19281
 xie dao 	寫到	c=1 d=1.05195e-37 t=19281
-xie de 	寫的	c=2 d=0.0111731 t=19281
-xie fa 	寫法	c=5 d=4.81967e-10 t=19281
+xie de 	寫的	c=2 d=0.0724398 t=19281
+xie fa 	寫法	c=5 d=0.146607 t=19281
 xie ge 	寫個	c=1 d=0.00615802 t=19281
 xie le 	寫了	c=1 d=0.000191619 t=19281
 xie lou 	泄漏	c=2 d=0.000217133 t=19281
+xie lun yan 	寫輪眼	c=1 d=1 t=484
 xie quan xian 	寫權限	c=2 d=5.92054e-29 t=19281
-xie ru 	寫入	c=5 d=3.23198e-07 t=19281
+xie ru 	寫入	c=5 d=0.317698 t=19281
 xie ti 	斜體	c=4 d=0.00185262 t=19281
 xie wan 	寫完	c=1 d=2.84727e-16 t=19281
 xie yi 	協議	c=1 d=2.99061e-35 t=19281
@@ -2533,6 +2636,7 @@ xiu jian 	修剪	c=1 d=1.69098e-33 t=19281
 xiu mian 	休眠	c=11 d=2.67526e-20 t=19281
 xiu xi 	休息	c=2 d=6.46469e-08 t=19281
 xiu zheng 	修正	c=2 d=9.68599e-08 t=19281
+xu 	序	c=2 d=2.07389 t=136
 xu 	虛	c=1 d=0.00250733 t=19281
 xu 	需	c=4 d=3.46928e-17 t=19281
 xu biao 	虚表	c=0 d=1.97449e-34 t=19281
@@ -2544,20 +2648,21 @@ xu yao 	需要	c=29 d=0.38253 t=19281
 xuan 	選	c=4 d=0.037509 t=19281
 xuan ran 	渲染	c=6 d=1.07798e-14 t=19281
 xuan xiang 	選項	c=37 d=1.23865e-08 t=19281
-xuan ze 	選擇	c=7 d=8.7484e-07 t=19281
-xue 	學	c=2 d=0.0200405 t=19281
+xuan yi 	選一	c=1 d=1 t=593
+xuan ze 	選擇	c=7 d=0.0985112 t=19281
+xue 	學	c=2 d=0.154331 t=19281
 xue dian 	學點	c=3 d=1.41358e-05 t=19281
 xue qi 	學期	c=1 d=1.19206e-08 t=19281
 xue shu 	學術	c=1 d=0.261846 t=19281
 xue wan 	學完	c=1 d=0.50409 t=19281
 xue wan 	學玩	c=1 d=0.484325 t=19281
-xue xi 	學習	c=5 d=3.49634e-08 t=19281
+xue xi 	學習	c=5 d=0.278037 t=19281
 xue xiao 	學校	c=2 d=9.96207e-05 t=19281
 xue yi xia 	學一下	c=1 d=2.39513e-11 t=19281
 xun huan 	循環	c=1 d=5.13208e-06 t=19281
 xun zhao 	尋找	c=3 d=1.14216e-05 t=19281
 xun zhi 	尋址	c=2 d=0.000377538 t=19281
-ya 	呀	c=3 d=5.12057e-09 t=19281
+ya 	呀	c=3 d=0.546074 t=19281
 ya gen 	壓根	c=2 d=0.014188 t=19281
 ya zhong duan 	啞終端	c=1 d=9.85615e-07 t=19281
 yan chi 	延遲	c=5 d=2.61425e-20 t=19281
@@ -2568,14 +2673,14 @@ yan zheng 	驗證	c=1 d=1.94641e-41 t=19281
 yang 	樣	c=3 d=0.084163 t=19281
 yang zi 	樣子	c=1 d=5.38019e-32 t=19281
 yao 	腰	c=2 d=5.70303e-08 t=19281
-yao 	要	c=46 d=0.0163806 t=19281
+yao 	要	c=46 d=0.640824 t=19281
 yao de 	要得	c=1 d=0.380983 t=19281
 yao kao shi 	要考試	c=1 d=8.65611e-09 t=19281
 yao me 	要麼	c=2 d=3.94982e-06 t=19281
 yao qiu 	要求	c=17 d=3.21532e-05 t=19281
 yao shi 	要是	c=2 d=0.38868 t=19281
 yao teng 	腰疼	c=4 d=1.30836e-07 t=19281
-ye 	也	c=36 d=0.00662296 t=19281
+ye 	也	c=36 d=0.199888 t=19281
 ye bu 	也不	c=0 d=3.55589e-14 t=19281
 ye bu hui 	也不會	c=1 d=5.657e-34 t=19281
 ye bu yong 	也不用	c=1 d=3.57372e-13 t=19281
@@ -2610,7 +2715,7 @@ yi bu 	異步	c=3 d=7.73617e-27 t=19281
 yi chang 	異常	c=5 d=1.06843e-14 t=19281
 yi chi 	一尺	c=1 d=2.26341e-22 t=19281
 yi chu 	移出	c=4 d=1.68639e-07 t=19281
-yi chu 	移除	c=2 d=3.89454e-06 t=19281
+yi chu 	移除	c=2 d=0.104874 t=19281
 yi ci 	一次	c=12 d=1.86127e-09 t=19281
 yi ci xing 	一次性	c=2 d=1.60972e-09 t=19281
 yi cun 	一寸	c=0 d=2.02626e-15 t=19281
@@ -2629,7 +2734,7 @@ yi dui 	一對	c=2 d=9.62593e-12 t=19281
 yi dui shu 	一堆書	c=1 d=4.55252e-08 t=19281
 yi er 	一二	c=0 d=2.00535e-40 t=19281
 yi er ge 	一二個	c=1 d=2.0154e-39 t=19281
-yi fen 	一份	c=3 d=4.84819e-13 t=19281
+yi fen 	一份	c=3 d=0.470011 t=19281
 yi ge 	一個	c=312 d=1.47498 t=19281
 yi ge cheng xu 	一個程序	c=1 d=9.28661e-42 t=19281
 yi ge ge 	一個個	c=1 d=1.47467e-11 t=19281
@@ -2639,6 +2744,7 @@ yi gong 	以供	c=0 d=8.08878e-36 t=19281
 yi gong shu ru 	以供輸入	c=1 d=8.12933e-35 t=19281
 yi hang 	一行	c=2 d=0.00687406 t=19281
 yi hou 	以後	c=2 d=1.15722e-12 t=19281
+yi ji 	一集	c=2 d=1.89583 t=517
 yi ji 	以及	c=15 d=3.84943e-05 t=19281
 yi jian 	一鍵	c=1 d=0.066205 t=19281
 yi jie 	一節	c=1 d=5.75852e-08 t=19281
@@ -2662,7 +2768,7 @@ yi qie 	一切	c=1 d=4.05024e-15 t=19281
 yi ran 	依然	c=1 d=4.20537e-16 t=19281
 yi shang 	以上	c=2 d=1.37783e-06 t=19281
 yi shi ban hui 	一時半會	c=2 d=0.904837 t=19281
-yi si 	意思	c=6 d=0.00444934 t=19281
+yi si 	意思	c=6 d=0.166127 t=19281
 yi si 	疑似	c=1 d=3.12135e-09 t=19281
 yi tao 	一套	c=1 d=0.331211 t=19281
 yi tian 	一天	c=2 d=4.99701e-08 t=19281
@@ -2673,15 +2779,15 @@ yi wai 	以外	c=3 d=3.91111e-07 t=19281
 yi wai 	意外	c=1 d=7.80127e-21 t=19281
 yi wei 	一位	c=2 d=2.84485e-06 t=19281
 yi wei 	以爲	c=2 d=0.0288742 t=19281
-yi wei 	意味	c=2 d=3.17564e-06 t=19281
+yi wei 	意味	c=2 d=0.390628 t=19281
 yi wei nei 	以爲內	c=1 d=2.31228e-38 t=19281
-yi wei zhe 	意味着	c=1 d=5.92261e-15 t=19281
+yi wei zhe 	意味着	c=1 d=0.343009 t=19281
 yi xia 	一下	c=6 d=0.0103877 t=19281
 yi xia 	以下	c=12 d=6.22309e-09 t=19281
 yi xiang 	一項	c=1 d=6.02665e-14 t=19281
-yi xie 	一些	c=34 d=0.00516975 t=19281
+yi xie 	一些	c=34 d=0.539809 t=19281
 yi xing 	一行	c=1 d=1.15982e-09 t=19281
-yi yang 	一樣	c=9 d=5.76034e-10 t=19281
+yi yang 	一樣	c=9 d=0.0792617 t=19281
 yi yi 	意義	c=1 d=6.78326e-23 t=19281
 yi you 	已有	c=2 d=1.93288e-32 t=19281
 yi yuan 	一元	c=1 d=2.41796e-05 t=19281
@@ -2736,7 +2842,7 @@ ying yu 	英語	c=3 d=0.0846844 t=19281
 ying zhu yi 	應注意	c=1 d=3.52411e-25 t=19281
 yo 	喲	c=0 d=2.28297e-36 t=19281
 yo ou neng gan yu 	喲偶能干預	c=1 d=2.29442e-35 t=19281
-yong 	用	c=45 d=1.20659 t=19281
+yong 	用	c=45 d=2.5742 t=19281
 yong bu 	永不	c=1 d=1.54597e-37 t=19281
 yong bu liao 	用不了	c=1 d=3.09766e-37 t=19281
 yong bu shang 	用不上	c=3 d=3.25762e-17 t=19281
@@ -2747,6 +2853,7 @@ yong hu 	用戶	c=91 d=0.00546451 t=19281
 yong hu de 	用戶的	c=1 d=4.18141e-37 t=19281
 yong hu ji 	用戶級	c=1 d=7.33822e-07 t=19281
 yong hu tai 	用戶態	c=1 d=3.84603e-24 t=19281
+yong ji 	擁擠	c=1 d=1 t=326
 yong jiu 	永久	c=2 d=2.39138e-22 t=19281
 yong lai 	用來	c=6 d=1.87857e-06 t=19281
 yong ta 	用它	c=1 d=1.21842e-30 t=19281
@@ -2770,19 +2877,21 @@ you dian 	優點	c=3 d=9.28375e-09 t=19281
 you dian 	有點	c=4 d=0.0112206 t=19281
 you gua 	有掛	c=1 d=2.53313e-23 t=19281
 you guan 	有關	c=5 d=2.55859e-23 t=19281
-you hua 	優化	c=4 d=0.000131375 t=19281
+you hua 	優化	c=4 d=0.359054 t=19281
 you hui 	優惠	c=1 d=4.86985e-36 t=19281
 you jian 	郵件	c=2 d=9.34777e-31 t=19281
 you kong 	有空	c=1 d=2.37129e-11 t=19281
 you le 	有了	c=1 d=2.59276e-32 t=19281
 you lian 	友鏈	c=11 d=9.04418e-30 t=19281
-you mei you 	有沒有	c=3 d=0.00104368 t=19281
+you mei 	又沒	c=3 d=2.7162 t=159
+you mei you 	有沒有	c=3 d=0.208045 t=19281
 you qing 	友情	c=1 d=8.89187e-31 t=19281
 you quan 	有權	c=0 d=1.5994e-26 t=19281
 you quan xian 	有權先	c=1 d=1.60742e-25 t=19281
 you sha 	有啥	c=0 d=2.64064e-13 t=19281
 you sha qian 	有啥錢	c=1 d=2.65388e-12 t=19281
-you shen me 	有什麼	c=2 d=7.56639e-09 t=19281
+you shen me 	有什麼	c=3 d=1.38307 t=19281
+you shi 	優勢	c=1 d=1 t=160
 you shi 	有時	c=1 d=5.63567e-19 t=19281
 you suo 	有所	c=1 d=3.5565e-15 t=19281
 you wen ti 	有問題	c=3 d=0.548812 t=19281
@@ -2796,6 +2905,7 @@ you xiao 	有效	c=14 d=3.10473e-05 t=19281
 you xiao zu 	有效組	c=1 d=1.03397e-40 t=19281
 you xie 	有些	c=4 d=3.57565e-17 t=19281
 you xuan 	優選	c=1 d=3.14779e-20 t=19281
+you ya 	優雅	c=1 d=1 t=332
 you yi 	優異	c=1 d=1.56639e-15 t=19281
 you yi ge 	有一個	c=7 d=7.36201e-19 t=19281
 you yi si 	有意思	c=2 d=0.41032 t=19281
@@ -2808,8 +2918,9 @@ yu 	與	c=38 d=5.38917e-05 t=19281
 yu an 	預案	c=0 d=5.80434e-14 t=19281
 yu an ye neng 	預案也能	c=1 d=5.83344e-13 t=19281
 yu dao 	遇到	c=2 d=7.52654e-11 t=19281
-yu fa 	語法	c=15 d=0.000476044 t=19281
+yu fa 	語法	c=15 d=0.107528 t=19281
 yu fa tang 	語法糖	c=2 d=1.83242e-11 t=19281
+yu fei 	與非	c=2 d=1.99501 t=23
 yu ju 	語句	c=17 d=0.0160829 t=19281
 yu liu 	餘留	c=2 d=6.6169e-25 t=19281
 yu men 	与门	c=1 d=0.0746459 t=19281
@@ -2821,7 +2932,7 @@ yu que 	餘缺	c=1 d=2.13051e-16 t=19281
 yu shi 	於是	c=3 d=1.01246e-28 t=19281
 yu suan 	預算	c=2 d=0.0123394 t=19281
 yu ya 	餘壓	c=1 d=0.000156885 t=19281
-yu yan 	語言	c=37 d=0.945646 t=19281
+yu yan 	語言	c=37 d=1.51312 t=19281
 yu yan zhong 	語言中	c=1 d=0.000880518 t=19281
 yu yi 	語義	c=6 d=1.24431e-05 t=19281
 yu yin 	語音	c=0 d=2.21091e-41 t=19281
@@ -2836,7 +2947,7 @@ yuan cheng cang ku 	遠程倉庫	c=1 d=4.40567e-34 t=19281
 yuan ji lu 	原記錄	c=2 d=2.8612e-34 t=19281
 yuan lai 	原來	c=5 d=1.55752e-07 t=19281
 yuan li 	原理	c=2 d=0.0380969 t=19281
-yuan ma 	源碼	c=8 d=4.9384e-13 t=19281
+yuan ma 	源碼	c=8 d=0.77445 t=19281
 yuan su 	元素	c=12 d=0.000485769 t=19281
 yuan su 	原素	c=1 d=7.35822e-39 t=19281
 yuan wen jian 	源文件	c=2 d=1.48821e-30 t=19281
@@ -2853,14 +2964,15 @@ yun 	雲	c=2 d=1.7461e-28 t=19281
 yun chu 	雲儲	c=1 d=1.0031e-07 t=19281
 yun pan 	雲盤	c=5 d=1.68185 t=19281
 yun suan 	運算	c=3 d=0.0125689 t=19281
-yun suan fu 	運算符	c=1 d=2.25449e-05 t=19281
+yun suan fu 	運算符	c=1 d=0.240508 t=19281
 yun xing 	運行	c=21 d=3.48628e-06 t=19281
 yun xing qi 	运行期	c=1 d=0.00362464 t=19281
 yun xu 	允許	c=13 d=9.65261e-18 t=19281
-za 	咋	c=3 d=1.10284e-07 t=19281
+za 	咋	c=3 d=0.0416862 t=19281
 za hui shi 	咋回事	c=1 d=0.00585769 t=19281
+za shi xian 	咋實現	c=1 d=1 t=422
 zai 	再	c=19 d=0.594521 t=19281
-zai 	在	c=226 d=0.718938 t=19281
+zai 	在	c=226 d=2.69099 t=19281
 zai ci 	再次	c=3 d=3.05515e-22 t=19281
 zai hen duo 	在很多	c=1 d=1.1145e-40 t=19281
 zai hu 	在乎	c=1 d=7.25261e-16 t=19281
@@ -2875,6 +2987,7 @@ zan cun qu 	暫存區	c=26 d=2.27432e-08 t=19281
 zan lia 	咱倆	c=1 d=1.31331e-30 t=19281
 zan shi 	暫時	c=6 d=4.35424e-17 t=19281
 zan shi xing 	暫時性	c=1 d=6.46033e-08 t=19281
+zao 	早	c=1 d=1 t=572
 zao cheng 	造成	c=5 d=3.92622e-23 t=19281
 zao cheng zi jin cheng 	造成子进程	c=1 d=2.22237e-42 t=19281
 zao qi 	早期	c=10 d=2.23732e-06 t=19281
@@ -2883,8 +2996,9 @@ zao yin 	噪音	c=1 d=2.56879e-11 t=19281
 zao zhi dao 	早知道	c=1 d=9.75642e-05 t=19281
 ze 	則	c=99 d=0.000265998 t=19281
 ze zai 	則在	c=1 d=2.55242e-24 t=19281
-zen me 	怎麼	c=77 d=0.385235 t=19281
+zen me 	怎麼	c=77 d=0.66994 t=19281
 zen me yang 	怎麼樣	c=1 d=3.47767e-16 t=19281
+zen me yong 	怎麼用	c=1 d=1 t=239
 zen neng 	怎能	c=1 d=8.31529e-07 t=19281
 zeng 	增	c=1 d=1.59527e-24 t=19281
 zeng jia 	增加	c=8 d=1.47137e-14 t=19281
@@ -2911,15 +3025,20 @@ zhao 	找	c=3 d=0.000188194 t=19281
 zhao dao 	找到	c=5 d=0.0526136 t=19281
 zhao dao le 	找到了	c=1 d=1.50831e-41 t=19281
 zhao ge 	找個	c=1 d=0.000495472 t=19281
-zhe 	着	c=4 d=3.19156e-06 t=19281
+zhe 	着	c=4 d=0.392586 t=19281
 zhe 	者	c=14 d=1.46072e-22 t=19281
-zhe 	這	c=84 d=2.31153 t=19281
+zhe 	這	c=84 d=2.77792 t=19281
+zhe bu 	這部	c=1 d=1 t=523
+zhe bu guo 	這不過	c=1 d=1 t=92
 zhe ci 	這次	c=4 d=0.190768 t=19281
+zhe dong xi 	這東西	c=2 d=1.75201 t=148
 zhe duan 	這段	c=2 d=6.4066e-28 t=19281
 zhe fang mian 	這方面	c=1 d=0.25924 t=19281
+zhe feng ge 	這風格	c=1 d=1 t=43
 zhe ge 	這個	c=31 d=1.44351 t=19281
 zhe ge gai 	這個該	c=1 d=2.6842e-28 t=19281
 zhe ge yue 	這個月	c=1 d=4.17146e-09 t=19281
+zhe han shu 	這函數	c=1 d=1 t=426
 zhe hen hao 	這很好	c=1 d=4.99568e-42 t=19281
 zhe hou zui neng gou 	這後最能夠	c=1 d=1.72309e-19 t=19281
 zhe hui 	這回	c=1 d=5.94906e-38 t=19281
@@ -2927,7 +3046,7 @@ zhe lei 	這類	c=1 d=1.45094e-26 t=19281
 zhe li 	這裏	c=16 d=0.162048 t=19281
 zhe liang ge 	這兩個	c=2 d=2.04064e-09 t=19281
 zhe liang zhong 	這兩種	c=1 d=1.07247e-29 t=19281
-zhe me 	這麼	c=3 d=0.0101529 t=19281
+zhe me 	這麼	c=3 d=0.882497 t=19281
 zhe me duo 	這麼多	c=3 d=0.0144801 t=19281
 zhe men 	這門	c=0 d=1.57725e-09 t=19281
 zhe men ke 	這門課	c=2 d=3.58022e-08 t=19281
@@ -2935,12 +3054,13 @@ zhe ne 	着呢	c=0 d=2.09665e-05 t=19281
 zhe ne me 	着呢麼	c=1 d=0.000210716 t=19281
 zhe neng 	這能	c=1 d=3.06163e-17 t=19281
 zhe shi 	這是	c=13 d=0.151831 t=19281
+zhe te me 	這特麼	c=1 d=1 t=473
 zhe teng 	折騰	c=0 d=6.52172e-32 t=19281
 zhe teng le 	折騰了	c=1 d=6.55441e-31 t=19281
 zhe wan yi 	這萬一	c=1 d=5.19619e-05 t=19281
 zhe wang zhan 	這網站	c=1 d=2.3521e-33 t=19281
 zhe xia 	這下	c=1 d=2.7889e-37 t=19281
-zhe xie 	這些	c=22 d=2.27857e-05 t=19281
+zhe xie 	這些	c=22 d=0.394554 t=19281
 zhe xie shu 	這些書	c=1 d=4.62132e-08 t=19281
 zhe xuan 	這選	c=1 d=7.31927e-06 t=19281
 zhe yang 	這樣	c=3 d=2.40908e-15 t=19281
@@ -2952,20 +3072,20 @@ zhen 	真	c=3 d=0.183599 t=19281
 zhen 	陣	c=1 d=0.0325493 t=19281
 zhen bu 	真不	c=0 d=7.96726e-05 t=19281
 zhen bu ru 	真不如	c=1 d=0.000800719 t=19281
-zhen de 	真的	c=6 d=0.293018 t=19281
+zhen de 	真的	c=6 d=0.831104 t=19281
 zhen dui 	針對	c=3 d=2.34164e-10 t=19281
 zhen shuang 	真爽	c=2 d=0.00052611 t=19281
 zhen xiang 	真相	c=1 d=4.52028e-42 t=19281
 zheng 	整	c=1 d=3.0753e-40 t=19281
 zheng chang 	正常	c=11 d=2.47917e-05 t=19281
 zheng fu 	正負	c=1 d=4.12925e-07 t=19281
-zheng ge 	整個	c=2 d=1.30025e-30 t=19281
+zheng ge 	整個	c=2 d=0.932394 t=19281
 zheng hao 	正好	c=4 d=2.15748e-08 t=19281
 zheng jiu 	拯救	c=1 d=3.37202e-06 t=19281
 zheng le 	整了	c=1 d=7.52783e-13 t=19281
 zheng ming 	證明	c=1 d=8.02929e-07 t=19281
 zheng qu 	蒸去	c=1 d=1.3461e-26 t=19281
-zheng que 	正確	c=4 d=0.000122264 t=19281
+zheng que 	正確	c=4 d=0.327915 t=19281
 zheng shu 	整數	c=6 d=0.0932095 t=19281
 zheng shu 	正數	c=3 d=0.000344079 t=19281
 zheng ti 	整體	c=4 d=6.6442e-11 t=19281
@@ -2978,30 +3098,31 @@ zheng xing 	整形	c=1 d=2.86048e-41 t=19281
 zheng zai 	正在	c=6 d=8.3167e-05 t=19281
 zheng zhao 	徵兆	c=1 d=2.61347e-08 t=19281
 zheng zheng shu 	正整數	c=2 d=4.44465e-20 t=19281
-zhi 	值	c=53 d=0.0348525 t=19281
+zhi 	值	c=53 d=0.337902 t=19281
 zhi 	只	c=28 d=0.24286 t=19281
 zhi 	指	c=5 d=1.67188e-17 t=19281
 zhi 	至	c=3 d=1.54975e-07 t=19281
 zhi a jin 	值啊進	c=1 d=1.0868e-38 t=19281
-zhi chi 	支持	c=30 d=0.368868 t=19281
+zhi chi 	支持	c=30 d=0.463587 t=19281
 zhi dao 	直到	c=7 d=1.18105e-17 t=19281
-zhi dao 	知道	c=5 d=0.00594015 t=19281
+zhi dao 	知道	c=5 d=1.28226 t=19281
 zhi dao de 	知道的	c=1 d=3.32227e-37 t=19281
 zhi ding 	制定	c=1 d=1.57393e-42 t=19281
 zhi ding 	指定	c=33 d=0.00118178 t=19281
 zhi dui 	只對	c=1 d=1.25292e-35 t=19281
 zhi hou 	之後	c=8 d=4.37401e-08 t=19281
 zhi hui 	只會	c=9 d=7.21398e-12 t=19281
-zhi hui 	智慧	c=0 d=6.85865e-07 t=19281
-zhi hui shu 	智慧樹	c=2 d=7.49615e-05 t=19281
+zhi hui 	智慧	c=0 d=0.00632918 t=19281
+zhi hui shu 	智慧樹	c=2 d=0.063609 t=19281
 zhi jia 	之家	c=0 d=5.90109e-32 t=19281
-zhi jian 	之間	c=14 d=3.61713e-08 t=19281
+zhi jian 	之間	c=14 d=0.249075 t=19281
 zhi jie 	直接	c=32 d=0.530928 t=19281
 zhi ju you 	只具有	c=1 d=5.89087e-40 t=19281
+zhi kan 	只看	c=1 d=1 t=139
 zhi ke yi 	只可以	c=1 d=6.0546e-39 t=19281
 zhi lei 	之類	c=2 d=9.0591e-07 t=19281
-zhi ling 	志玲	c=5 d=1.40347e-17 t=19281
-zhi ling 	指令	c=4 d=1.46428e-16 t=19281
+zhi ling 	志玲	c=5 d=0.158817 t=19281
+zhi ling 	指令	c=4 d=0.159614 t=19281
 zhi ming 	指明	c=4 d=1.82746e-05 t=19281
 zhi ming 	知名	c=1 d=2.15749e-17 t=19281
 zhi neng 	只能	c=19 d=0.459849 t=19281
@@ -3015,18 +3136,19 @@ zhi shi 	知識	c=5 d=5.46398e-31 t=19281
 zhi suo yi 	之所以	c=1 d=5.14449e-05 t=19281
 zhi ti gong 	只提供	c=1 d=5.45018e-37 t=19281
 zhi wai 	之外	c=1 d=2.50486e-38 t=19281
-zhi xiang 	指向	c=18 d=5.48238e-06 t=19281
+zhi xiang 	只想	c=1 d=1 t=384
+zhi xiang 	指向	c=18 d=0.348192 t=19281
 zhi xing 	執行	c=70 d=0.6688 t=19281
 zhi xu yao 	只需要	c=1 d=2.33194e-20 t=19281
 zhi yao 	只要	c=2 d=4.49635e-09 t=19281
 zhi yi 	之一	c=6 d=3.70807e-06 t=19281
-zhi you 	只有	c=21 d=0.013684 t=19281
+zhi you 	只有	c=21 d=0.424645 t=19281
 zhi zai 	只在	c=1 d=3.23363e-13 t=19281
 zhi zhe 	指着	c=1 d=1.24646e-33 t=19281
-zhi zhen 	指針	c=19 d=0.236574 t=19281
+zhi zhen 	指針	c=19 d=0.655962 t=19281
 zhi zhi 	直至	c=1 d=8.71135e-25 t=19281
 zhi zuo 	製作	c=1 d=5.17363e-42 t=19281
-zhong 	中	c=254 d=0.70178 t=19281
+zhong 	中	c=254 d=3.58298 t=19281
 zhong 	種	c=29 d=0.0277392 t=19281
 zhong 	重	c=1 d=4.13994e-08 t=19281
 zhong bao 	衆包	c=3 d=0.245035 t=19281
@@ -3097,13 +3219,14 @@ zi dong hua 	自動化	c=5 d=2.31453e-16 t=19281
 zi du 	自瀆	c=0 d=2.26148e-13 t=19281
 zi du a 	自瀆啊	c=1 d=2.27282e-12 t=19281
 zi duan 	字段	c=12 d=0.00351815 t=19281
-zi fu 	字符	c=18 d=6.44886e-07 t=19281
+zi fu 	字符	c=18 d=0.0623495 t=19281
 zi fu 	自負	c=1 d=1.02776e-28 t=19281
 zi fu chuan 	字符串	c=21 d=2.44547e-10 t=19281
 zi ji 	子集	c=2 d=5.94591e-22 t=19281
 zi ji 	自己	c=10 d=0.517151 t=19281
 zi jie 	字節	c=5 d=0.891221 t=19281
 zi jie dian 	子節點	c=1 d=4.15998e-06 t=19281
+zi jie xu 	字節序	c=1 d=1 t=119
 zi jin cheng 	子进程	c=36 d=6.99845e-19 t=19281
 zi jiu 	自救	c=1 d=0.0212797 t=19281
 zi lei 	子類	c=3 d=0.0251658 t=19281
@@ -3111,7 +3234,7 @@ zi liao 	資料	c=1 d=3.49272e-08 t=19281
 zi mian 	字面	c=0 d=4.39355e-32 t=19281
 zi mian liang 	字面量	c=5 d=0.00111936 t=19281
 zi ming ling 	子命令	c=7 d=1.50586e-09 t=19281
-zi mu 	字母	c=1 d=3.42414e-10 t=19281
+zi mu 	字母	c=2 d=0.504495 t=19281
 zi mu lu 	子目錄	c=3 d=3.86873e-05 t=19281
 zi qi dong 	自启动	c=1 d=2.04377e-27 t=19281
 zi ran 	自然	c=2 d=4.84544e-15 t=19281
@@ -3149,7 +3272,7 @@ zui ding duan 	最頂端	c=1 d=1.3814e-07 t=19281
 zui duo 	最多	c=1 d=0.631284 t=19281
 zui gao 	最高	c=2 d=0.0424257 t=19281
 zui hao 	最好	c=1 d=0.04573 t=19281
-zui hou 	最後	c=23 d=1.07066 t=19281
+zui hou 	最後	c=23 d=1.27081 t=19281
 zui hou de 	最後的	c=1 d=1.3854e-41 t=19281
 zui jian 	嘴尖	c=0 d=3.23804e-30 t=19281
 zui jian dan 	嘴尖但	c=1 d=3.25427e-29 t=19281

@@ -1,10 +1,11 @@
 # Rime user dictionary
 #@/db_name	easy_en
 #@/db_type	userdb
-#@/rime_version	1.8.4
+#@/rime_version	1.8.5
 #@/tick	1526
 #@/user_id	sync
 A 	A	c=19 d=4.07686 t=1526
+Android 	Android	c=1 d=1 t=1
 B 	B	c=14 d=3.35205 t=1526
 Blog 	Blog	c=1 d=0.19398 t=1526
 C 	C	c=45 d=10.906 t=1526
@@ -76,7 +77,7 @@ commit 	commit	c=5 d=0.0318908 t=1526
 context 	context	c=1 d=0.0342181 t=1526
 da 	DA	c=1 d=0.00384878 t=1526
 dia 	dia	c=5 d=0.154758 t=1526
-do 	do	c=1 d=0.172045 t=1526
+do 	do	c=1 d=0.97531 t=1526
 double 	double	c=1 d=0.839457 t=1526
 du 	du	c=1 d=0.0134335 t=1526
 duo 	duo	c=1 d=0.00386807 t=1526
@@ -113,7 +114,7 @@ gk 	gk	c=2 d=0.0127955 t=1526
 gn 	gn	c=3 d=0.717469 t=1526
 go 	go	c=1 d=0.00144449 t=1526
 gw 	gw	c=1 d=0.000757869 t=1526
-h 	H	c=2 d=0.232492 t=1526
+h 	H	c=2 d=0.985112 t=1526
 ha 	ha	c=1 d=0.718924 t=1526
 hao 	hao	c=1 d=0.0117371 t=1526
 hen 	hen	c=1 d=0.951229 t=1526
@@ -220,7 +221,7 @@ unsigned 	unsigned	c=2 d=1.47057 t=1526
 uo 	uo	c=1 d=0.0136366 t=1526
 updated 	updated	c=1 d=0.00151098 t=1526
 url 	URL	c=1 d=0.00433948 t=1526
-us 	us	c=1 d=0.172907 t=1526
+us 	us	c=1 d=0.980199 t=1526
 usa 	USA	c=1 d=0.427415 t=1526
 value 	value	c=1 d=0.00351752 t=1526
 ve 	ve	c=3 d=0.0023006 t=1526
