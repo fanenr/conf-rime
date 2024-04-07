@@ -54,9 +54,12 @@ Z 	Z	c=2 d=0.00647589 t=1791
 account 	account	c=1 d=0.00214418 t=1791
 act 	act	c=1 d=0.0301974 t=1791
 aj 	aj	c=1 d=0.0023935 t=1791
+al 	AL	c=1 d=1 t=15
 alarm 	alarm	c=5 d=0.122497 t=1791
 alisa 	alisa	c=1 d=0.00571306 t=1791
+allocator 	allocator	c=3 d=2.95551 t=28
 an 	an	c=4 d=1.35226 t=1791
+and 	and	c=1 d=1 t=22
 android 	android	c=1 d=0.985112 t=1791
 ang 	ang	c=3 d=0.71275 t=1791
 ao 	AO	c=1 d=0.831104 t=1791
@@ -67,6 +70,7 @@ be 	be	c=4 d=1.88844 t=1791
 bi 	BI	c=3 d=0.739488 t=1791
 branch 	branch	c=2 d=0.0159076 t=1791
 bu 	bu	c=2 d=0.0139265 t=1791
+bucket 	bucket	c=3 d=2.98506 t=32
 buda 	buda	c=1 d=0.425283 t=1791
 bug 	bug	c=1 d=0.00105946 t=1791
 bush 	bush	c=2 d=1.07538 t=1791
@@ -149,7 +153,7 @@ ian 	ian	c=1 d=0.218712 t=1791
 ib 	IB	c=1 d=0.826959 t=1791
 ic 	IC	c=1 d=0.0152985 t=1791
 id 	id	c=1 d=0.000921047 t=1791
-ie 	IE	c=1 d=0.818731 t=1791
+ie 	IE	c=1 d=0.891366 t=1791
 if 	if	c=6 d=3.96816 t=1791
 ig 	ig	c=1 d=0.00140882 t=1791
 illegal 	illegal	c=2 d=1.99501 t=1791
@@ -157,9 +161,11 @@ incr 	incr	c=2 d=0.00600988 t=1791
 info 	info	c=1 d=0.0306538 t=1791
 ing 	ing	c=1 d=0.357007 t=1791
 init 	init	c=2 d=0.00728202 t=1791
+insert 	insert	c=1 d=1 t=29
 inti 	inti	c=1 d=0.00225411 t=1791
 ion 	ion	c=1 d=0.380983 t=1791
-is 	is	c=2 d=0.31696 t=1791
+iq 	IQ	c=1 d=1 t=12
+is 	is	c=2 d=0.909373 t=1791
 iso 	ISO	c=1 d=0.000520875 t=1791
 issue 	issue	c=2 d=0.0140621 t=1791
 it 	it	c=2 d=0.74866 t=1791
@@ -176,6 +182,7 @@ jn 	jn	c=1 d=0.0120946 t=1791
 ju 	ju	c=1 d=0.822835 t=1791
 k 	K	c=1 d=0.733447 t=1791
 ka 	ka	c=2 d=0.971446 t=1791
+kernel 	kernel	c=1 d=1 t=36
 kill 	kill	c=3 d=0.0603689 t=1791
 kn 	kn	c=1 d=0.810584 t=1791
 kyi 	Kyi	c=1 d=0.323033 t=1791
@@ -192,9 +199,11 @@ linux 	linux	c=1 d=0.00232276 t=1791
 login 	login	c=3 d=0.00495717 t=1791
 make 	make	c=1 d=0.348192 t=1791
 makefile 	makefile	c=4 d=2.06066 t=1791
-malloc 	malloc	c=3 d=0.0458246 t=1791
+malloc 	malloc	c=3 d=0.985112 t=1791
 master 	master	c=1 d=0.00606634 t=1791
+me 	me	c=1 d=1 t=7
 meg 	Meg	c=1 d=0.00752142 t=1791
+mei 	mei	c=1 d=1 t=1
 min 	min	c=1 d=0.353455 t=1791
 ming 	ming	c=2 d=1.72316 t=1791
 minging 	minging	c=3 d=0.226812 t=1791
@@ -209,6 +218,7 @@ nich 	nich	c=1 d=0.88692 t=1791
 nix 	nix	c=3 d=2.18373 t=1791
 no 	no	c=4 d=0.0221133 t=1791
 notify 	notify	c=1 d=0.319819 t=1791
+nt 	n't	c=1 d=1 t=3
 o 	O	c=2 d=0.041785 t=1791
 oa 	OA	c=1 d=0.0135686 t=1791
 on 	on	c=2 d=0.14293 t=1791
@@ -246,9 +256,10 @@ si 	SI	c=2 d=0.0949191 t=1791
 signal 	signal	c=2 d=0.0411004 t=1791
 sn 	SN	c=1 d=0.722527 t=1791
 sp 	SP	c=1 d=0.0958472 t=1791
-static 	static	c=1 d=0.913931 t=1791
+static 	static	c=2 d=1.71712 t=1791
 status 	status	c=1 d=0.00562801 t=1791
 su 	SU	c=1 d=0.19593 t=1791
+sy 	sy	c=1 d=1 t=16
 system 	system	c=14 d=0.0246287 t=1791
 tong 	tong	c=1 d=0.0294518 t=1791
 u 	U	c=2 d=0.947924 t=1791
@@ -266,9 +277,10 @@ usa 	USA	c=1 d=0.427415 t=1791
 value 	value	c=1 d=0.00351752 t=1791
 ve 	ve	c=3 d=0.0023006 t=1791
 vector 	vector	c=1 d=0.000555857 t=1791
-void 	void	c=1 d=0.786628 t=1791
+void 	void	c=1 d=0.895834 t=1791
 w 	W	c=1 d=0.814647 t=1791
 wait 	wait	c=6 d=0.0196492 t=1791
+we 	we	c=1 d=1 t=2
 which 	which	c=4 d=0.0132896 t=1791
 who 	who	c=4 d=0.0134531 t=1791
 wi 	wi	c=1 d=0.937067 t=1791
@@ -278,7 +290,7 @@ wog 	wog	c=1 d=0.00436124 t=1791
 xa 	xa	c=1 d=0.0632918 t=1791
 xi 	xi	c=5 d=3.09367 t=1791
 xn 	xn	c=1 d=0.0116786 t=1791
-y 	Y	c=1 d=0.0014018 t=1791
+y 	Y	c=1 d=0.882497 t=1791
 ye 	ye	c=1 d=0.321422 t=1791
 yi 	yi	c=7 d=1.1448 t=1791
 yin 	yin	c=3 d=2.07218 t=1791
