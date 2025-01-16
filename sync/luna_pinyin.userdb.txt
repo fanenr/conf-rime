@@ -5,6 +5,6 @@
 #@/tick	4
 #@/user_id	sync
 chang liang 	常量	c=1 d=1 t=4
-dian ying 	電影	c=1 d=1 t=3
+dian ying 	電影	c=1 d=0.995012 t=4
 mo ren 	默認	c=1 d=1 t=4
 tui jian 	推薦	c=1 d=1 t=4
