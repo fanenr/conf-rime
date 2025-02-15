@@ -132,7 +132,7 @@ ban ge duo 	半個多	c=1 d=0.00150344 t=113678
 ban ge xiao shi 	半個小時	c=1 d=1.83943e-23 t=113678
 ban ge yue 	半個月	c=1 d=1.28289e-19 t=113678
 ban gong 	辦公	c=1 d=0.0507928 t=113678
-ban gong shi 	辦公室	c=1 d=1 t=113648
+ban gong shi 	辦公室	c=1 d=0.860708 t=113678
 ban hui 	半會	c=1 d=0.412714 t=113678
 ban ji 	班級	c=2 d=1.90727 t=113678
 ban jiao 	半角	c=3 d=1.82337e-40 t=113678
@@ -969,13 +969,13 @@ chao chu 	超出	c=7 d=0.856415 t=113678
 chao chu le 	超出了	c=1 d=0.000997758 t=113678
 chao da xing 	超大型	c=2 d=3.85336e-17 t=113678
 chao de 	炒得	c=1 d=0.449329 t=113678
-chao fen 	超分	c=1 d=1 t=113672
+chao fen 	超分	c=1 d=0.970446 t=113678
 chao guo 	超過	c=11 d=0.000788407 t=113678
 chao ji 	超級	c=23 d=0.684374 t=113678
 chao ji 	超集	c=1 d=0.000183188 t=113678
 chao ji yong hu 	超級用戶	c=3 d=9.96837e-38 t=113678
 chao le 	超了	c=1 d=0.000112226 t=113678
-chao qing 	超清	c=1 d=1 t=113649
+chao qing 	超清	c=1 d=0.865022 t=113678
 chao shi 	超時	c=32 d=0.903113 t=113678
 chao xian 	朝鮮	c=4 d=5.0925e-26 t=113678
 chao xing 	超星	c=2 d=3.71703e-05 t=113678
@@ -2254,7 +2254,7 @@ fei kong 	非空	c=16 d=1.43447e-10 t=113678
 fei kong zhi zhen 	非空指針	c=1 d=2.16418e-24 t=113678
 fei le 	廢了	c=9 d=0.000816895 t=113678
 fei ling 	非零	c=1 d=3.33041e-07 t=113678
-fei mao 	飛貓	c=1 d=1 t=113674
+fei mao 	飛貓	c=1 d=0.980199 t=113678
 fei qi 	廢棄	c=2 d=3.46574e-05 t=113678
 fei qi 	飛起	c=1 d=4.53999e-05 t=113678
 fei sheng 	飛昇	c=1 d=2.33679e-15 t=113678
@@ -5150,7 +5150,7 @@ mou yi lie 	某一列	c=2 d=0.0103911 t=113678
 mou yi wei 	某一位	c=1 d=0.00242967 t=113678
 mou zhong 	某種	c=10 d=1.84614e-07 t=113678
 mou zhong ge 	某種個	c=1 d=5.59404e-20 t=113678
-mu 	母	c=1 d=1 t=113654
+mu 	母	c=1 d=0.88692 t=113678
 mu ban 	模板	c=13 d=0.97478 t=113678
 mu biao 	目標	c=37 d=0.0858632 t=113678
 mu di 	目的	c=11 d=0.231078 t=113678
@@ -5301,7 +5301,7 @@ nei wai 	內外	c=1 d=8.13374e-12 t=113678
 nei wang 	內網	c=7 d=0.465334 t=113678
 nei wang chuan tou 	內網穿透	c=1 d=5.62992e-07 t=113678
 nei xin 	內心	c=1 d=1.97146e-15 t=113678
-nei yi 	內衣	c=1 d=1 t=113647
+nei yi 	內衣	c=1 d=0.856415 t=113678
 nei zang 	內臟	c=0 d=0.0122456 t=113678
 nei zang xue 	內臟學	c=1 d=0.12307 t=113678
 nei zhi 	內置	c=16 d=0.156747 t=113678
