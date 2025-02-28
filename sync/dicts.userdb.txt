@@ -1,7 +1,7 @@
 # Rime user dictionary
 #@/db_name	dicts
 #@/db_type	userdb
-#@/rime_version	1.8.5
+#@/rime_version	1.11.2
 #@/tick	114284
 #@/user_id	sync
 a 	啊	c=204 d=2.35761 t=114284
@@ -1634,7 +1634,7 @@ di bu 	地步	c=2 d=4.29118e-18 t=114284
 di bu 	底部	c=25 d=0.239374 t=114284
 di ceng 	底層	c=33 d=1.28757 t=114284
 di ceng ne gai 	底層呢該	c=1 d=0.00472447 t=114284
-di cheng 	地秤	c=1 d=1 t=114260
+di cheng 	地秤	c=1 d=0.88692 t=114284
 di da 	滴答	c=2 d=3.08892e-36 t=114284
 di dao 	地道	c=2 d=1.28136e-05 t=114284
 di diao 	低調	c=1 d=1.29156e-10 t=114284
@@ -2394,7 +2394,7 @@ fu li 	福利	c=7 d=0.00318562 t=114284
 fu lu 	附錄	c=4 d=0.0115047 t=114284
 fu lu ta ta er 	附錄塔塔爾	c=1 d=2.00992e-07 t=114284
 fu mu 	父母	c=1 d=0.355226 t=114284
-fu mu lu 	父目錄	c=3 d=2.94111 t=114207
+fu mu lu 	父目錄	c=3 d=2.00128 t=114284
 fu qi 	服氣	c=1 d=1.61327e-09 t=114284
 fu rong qi 	父容器	c=1 d=0.000395642 t=114284
 fu shang 	附上	c=2 d=3.81858e-18 t=114284
@@ -2451,7 +2451,7 @@ gai gai 	改改	c=6 d=0.612633 t=114284
 gai gai gai 	改改改	c=1 d=0.0192547 t=114284
 gai han shu 	該函數	c=1 d=3.13636e-36 t=114284
 gai hui hua 	該會話	c=1 d=1.52429e-18 t=114284
-gai ji 	該機	c=1 d=1 t=114194
+gai ji 	該機	c=1 d=0.637628 t=114284
 gai jie gou 	該結構	c=2 d=2.59726e-23 t=114284
 gai jin 	改進	c=34 d=1.48592 t=114284
 gai jin cheng 	該進程	c=5 d=1.7381e-18 t=114284
@@ -4339,7 +4339,7 @@ ken 	肯	c=1 d=0.0510474 t=114284
 ken ding 	肯定	c=37 d=0.452913 t=114284
 ken ding yao 	肯定要	c=1 d=6.26387e-27 t=114284
 ken en 	肯恩	c=1 d=0.0701173 t=114284
-ken en na ge 	肯恩哪個	c=1 d=1 t=114214
+ken en na ge 	肯恩哪個	c=1 d=0.704688 t=114284
 ken neng 	肯能	c=3 d=0.146607 t=114284
 keng 	坑	c=8 d=0.786809 t=114284
 keng meng 	坑蒙	c=1 d=0.00042433 t=114284
@@ -8388,7 +8388,7 @@ xie yi 	協議	c=19 d=1.79097 t=114284
 xie yi e gao 	協議惡搞	c=1 d=0.000587285 t=114284
 xie yi fen 	寫一份	c=1 d=0.0153752 t=114284
 xie yi ge 	寫一個	c=34 d=0.519442 t=114284
-xie yi pian 	寫一篇	c=1 d=1 t=114261
+xie yi pian 	寫一篇	c=1 d=0.891366 t=114284
 xie yi shou 	寫一首	c=1 d=4.39519e-06 t=114284
 xie zai 	卸載	c=24 d=1.97732 t=114284
 xie zai 	寫在	c=2 d=1.4595e-07 t=114284
@@ -9390,7 +9390,7 @@ yun 	雲	c=18 d=1.00388 t=114284
 yun a zi 	雲阿紫	c=2 d=0.000241552 t=114284
 yun chu 	雲儲	c=1 d=1.0031e-07 t=114284
 yun ci ku 	雲詞庫	c=1 d=0.0385808 t=114284
-yun dong 	運動	c=1 d=1 t=114248
+yun dong 	運動	c=1 d=0.83527 t=114284
 yun niang 	醞釀	c=1 d=0.0780817 t=114284
 yun pan 	雲盤	c=18 d=1.92898 t=114284
 yun qi 	運氣	c=1 d=0.955997 t=114284
@@ -9921,7 +9921,7 @@ zhi xian 	直線	c=2 d=0.00710966 t=114284
 zhi xiang 	只想	c=8 d=0.478091 t=114284
 zhi xiang 	指向	c=32 d=0.95277 t=114284
 zhi xing 	執行	c=145 d=2.95694 t=114284
-zhi xing neng 	執行能	c=1 d=1 t=114231
+zhi xing neng 	執行能	c=1 d=0.767206 t=114284
 zhi xu 	只需	c=4 d=0.0072265 t=114284
 zhi xu yao 	只需要	c=6 d=0.443193 t=114284
 zhi yang 	至楊	c=1 d=6.00272e-26 t=114284

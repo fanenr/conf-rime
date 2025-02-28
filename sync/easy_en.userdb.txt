@@ -1,7 +1,7 @@
 # Rime user dictionary
 #@/db_name	easy_en
 #@/db_type	userdb
-#@/rime_version	1.8.5
+#@/rime_version	1.11.2
 #@/tick	3938
 #@/user_id	sync
 A 	A	c=95 d=13.9795 t=3938
