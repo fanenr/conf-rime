@@ -32,7 +32,7 @@ De 	De	c=1 d=0.579842 t=3942
 Debug 	Debug	c=1 d=0.650509 t=3942
 Dialog 	Dialog	c=1 d=0.726149 t=3942
 Document 	Document	c=1 d=1 t=3942
-Documents 	Documents	c=1 d=1 t=3941
+Documents 	Documents	c=1 d=0.995012 t=3942
 Down 	Down	c=1 d=0.431711 t=3942
 E 	E	c=39 d=6.60769 t=3942
 Editor 	Editor	c=1 d=0.189191 t=3942
