@@ -536,7 +536,7 @@ vpn 	VPN	c=1 d=0.57695 t=4052
 vps 	vps	c=1 d=0.831104 t=4052
 w 	W	c=7 d=3.36406 t=4052
 wait 	wait	c=6 d=0.0196492 t=4052
-wan 	wan	c=1 d=1 t=4050
+wan 	wan	c=1 d=0.99005 t=4052
 wang 	wang	c=1 d=0.99005 t=4052
 wayland 	wayland	c=1 d=0.71177 t=4052
 we 	we	c=2 d=0.551579 t=4052
